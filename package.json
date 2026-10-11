@@ -1,0 +1,17 @@
+{
+  "name": "pustaka-terbuka-ppapp",
+  "version": "0.1.0",
+  "description": "Perbadanan Perpustakaan Awam Pulau Pinang (PPAPP) Bibliographic Dataset and Harvester for Pustaka Terbuka.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "harvest": "node tools/harvesters/ppapp/harvester.js",
+    "harvest:sample": "node tools/harvesters/ppapp/harvester.js --max-records 10",
+    "ingest:master": "node tools/ingest-to-master.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true,
+  "license": "MIT"
+}
