@@ -36,19 +36,26 @@ For universal ecosystem contracts, adapter architecture, and schema definitions,
 
 ## 3. Execution Commands
 
-### Run Full Harvest
+### Production Chunked Harvest with Master Digest (Recommended)
+Pauses every 10,000 records, validates, merges, and triggers safe master union catalog indexing.
 ```bash
-node tools/harvesters/ppapp/harvester.js
+npm run harvest:master
+# Equivalent to: node tools/harvesters/ppapp/harvester.js --chunk-size 10000 --master-digest --sitemap
+```
+
+### Run Full Harvest (Sequential or Sitemap)
+```bash
+node tools/harvesters/ppapp/harvester.js --sitemap --master-digest
 ```
 
 ### Resume Incomplete Run
 ```bash
-node tools/harvesters/ppapp/harvester.js --resume auto
+node tools/harvesters/ppapp/harvester.js --resume auto --master-digest
 ```
 
 ### Run Sample / Verification Crawl (10 Records)
 ```bash
-node tools/harvesters/ppapp/harvester.js --max-records 10
+node tools/harvesters/ppapp/harvester.js --max-records 10 --master-digest
 ```
 
 ### Harvest Specific Range

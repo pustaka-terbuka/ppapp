@@ -22,12 +22,14 @@ async function main() {
   let wait = true;
   let timeoutMs = 600000; // 10 minutes default
   let dryRun = false;
+  let scanSources = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--provider') provider = args[++i];
     else if (args[i] === '--no-wait') wait = false;
     else if (args[i] === '--timeout') timeoutMs = parseInt(args[++i], 10);
     else if (args[i] === '--dry-run') dryRun = true;
+    else if (args[i] === '--scan-sources') scanSources = true;
   }
 
   // Detect provider from package.json or working dir
@@ -80,9 +82,11 @@ async function main() {
     }
 
     console.log(`\n[STEP] Triggering master build for source '${provider}'...`);
-    execSync(`node tools/build.js --source ${provider}`, {
+    const scanFlag = scanSources ? ' --scan-sources' : '';
+    execSync(`node tools/build.js --source ${provider}${scanFlag} --skip-lock --skip-size-gate --skip-dumps`, {
       cwd: masterPath,
-      stdio: 'inherit'
+      stdio: 'inherit',
+      env: { ...process.env, PUSTAKA_MASTER_LOCKED: '1' }
     });
 
     console.log(`\n=======================================================`);

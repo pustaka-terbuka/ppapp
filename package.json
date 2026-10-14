@@ -5,13 +5,22 @@
   "type": "module",
   "scripts": {
     "test": "node --test tests/*.test.js",
+    "validate-inbox": "node tools/validate-inbox.js",
+    "merge": "node tools/merge.js",
     "harvest": "node tools/harvesters/ppapp/harvester.js",
     "harvest:sample": "node tools/harvesters/ppapp/harvester.js --max-records 10",
+    "harvest:chunked": "node tools/harvesters/ppapp/harvester.js --chunk-size 10000",
+    "harvest:master": "node tools/harvesters/ppapp/harvester.js --chunk-size 10000 --master-digest",
     "ingest:master": "node tools/ingest-to-master.js"
   },
   "engines": {
     "node": ">=20.0.0"
   },
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "fast-xml-parser": "^5.11.2"
+  }
 }

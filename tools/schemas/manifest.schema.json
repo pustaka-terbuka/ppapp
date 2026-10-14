@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pustakaterbuka.org/schemas/manifest.schema.json",
+  "title": "Harvester Manifest",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "enum": ["1.0"]
+    },
+    "source_code": {
+      "type": "string"
+    },
+    "source_name": {
+      "type": "string"
+    },
+    "source_base_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "terms_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "terms_verified_on": {
+      "type": "string",
+      "format": "date"
+    },
+    "harvester_name": {
+      "type": "string"
+    },
+    "harvester_version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+.*$"
+    },
+    "run_id": {
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9_-]+$"
+    },
+    "mode": {
+      "type": "string",
+      "enum": ["full", "incremental"]
+    },
+    "started_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "finished_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "record_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "error_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "status": {
+      "type": "string",
+      "enum": ["complete", "partial", "failed"]
+    },
+    "user_agent": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "schema_version",
+    "source_code",
+    "source_name",
+    "source_base_url",
+    "terms_url",
+    "terms_verified_on",
+    "harvester_name",
+    "harvester_version",
+    "run_id",
+    "mode",
+    "started_at",
+    "finished_at",
+    "record_count",
+    "error_count",
+    "status",
+    "user_agent"
+  ],
+  "additionalProperties": false
+}

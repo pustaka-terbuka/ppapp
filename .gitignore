@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Temporary harvest inbox and chunk directories
+harvest/inbox/
+*.tmp
+*.log
+
+# OS artifacts
+.DS_Store
+Thumbs.db
