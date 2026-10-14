@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00550pam a2200205   4500</marc:leader>
+    <marc:controlfield tag="001">11377</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170403070829</marc:controlfield>
+    <marc:controlfield tag="008">161215s1999                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">70375097</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">2061-74860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)11377</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">697 LEV</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">LEVENHAGEN, John I.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">HVAC controls and systems /</marc:subfield>
+      <marc:subfield code="c">by John I. Levenhagen, Donald H. Spethmann</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill, Inc.,</marc:subfield>
+      <marc:subfield code="c">1993</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="350" ind1="0" ind2="0">
+      <marc:subfield code="a">USD 61.50</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">Heating</marc:subfield>
+      <marc:subfield code="x">Control.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">SPETHMANN, Donald H.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">ZZZ</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="e">OSM</marc:subfield>
+      <marc:subfield code="g">184.5</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">697 LEV</marc:subfield>
+      <marc:subfield code="p">1000103479</marc:subfield>
+      <marc:subfield code="r">2017-04-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">35575</marc:subfield>
+      <marc:subfield code="d">35575</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

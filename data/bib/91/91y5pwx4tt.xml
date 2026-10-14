@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00717pam a2200229   4500</marc:leader>
+    <marc:controlfield tag="001">28614</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170327152304</marc:controlfield>
+    <marc:controlfield tag="008">161215s2000    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">736000895</marc:subfield>
+      <marc:subfield code="c">RM 237.20</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0056-58560</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)28614</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">613.71</marc:subfield>
+      <marc:subfield code="b">NAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="0" ind2=" ">
+      <marc:subfield code="a">NATIONAL Strenght and Conditioning Association.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Essentials of strenght training and conditioning /</marc:subfield>
+      <marc:subfield code="c">National Strenght and Conditioning Association; editors Thomas R. Baechle, Roger W. Earle</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2nd ed</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">U S A :</marc:subfield>
+      <marc:subfield code="b">Human Kinetics,</marc:subfield>
+      <marc:subfield code="c">2000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Aset</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">Physical education</marc:subfield>
+      <marc:subfield code="x">Training.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">BAECHLE, Thomas R.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">EARLE, Roger W.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-03-27</marc:subfield>
+      <marc:subfield code="e">SM</marc:subfield>
+      <marc:subfield code="g">237.2</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">613.71 NAT</marc:subfield>
+      <marc:subfield code="p">1000199694</marc:subfield>
+      <marc:subfield code="r">2022-04-06 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-03-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">16721</marc:subfield>
+      <marc:subfield code="d">16721</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

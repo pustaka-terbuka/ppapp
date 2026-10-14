@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00908pam a2200289   4500</marc:leader>
+    <marc:controlfield tag="001">235707</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170423014002</marc:controlfield>
+    <marc:controlfield tag="008">151023                             eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780199753659 (pbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780199753642 (hbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)235707</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">297.09049</marc:subfield>
+      <marc:subfield code="b">ISL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="091" ind1="0" ind2="0">
+      <marc:subfield code="a">297.09049 ISL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Islamophobia :</marc:subfield>
+      <marc:subfield code="b">the challenge of pluralism in the 21st century /</marc:subfield>
+      <marc:subfield code="c">edited by John L. Esposito and Ibrahim Kalin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="0">
+      <marc:subfield code="a">Oxford :</marc:subfield>
+      <marc:subfield code="b">Oxford University Press,</marc:subfield>
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxv, 236pages :</marc:subfield>
+      <marc:subfield code="b">illustrations,</marc:subfield>
+      <marc:subfield code="c">24cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Islam and politics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Islam</marc:subfield>
+      <marc:subfield code="x">Public opinion</marc:subfield>
+      <marc:subfield code="y">21st century</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Esposito, John L.</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Ibrahim Kalin</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-01-03</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">297.09049 ISL</marc:subfield>
+      <marc:subfield code="p">1001304038</marc:subfield>
+      <marc:subfield code="r">2018-01-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-01-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">219786</marc:subfield>
+      <marc:subfield code="d">219786</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00564pam a2200217   4500</marc:leader>
+    <marc:controlfield tag="001">125309</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170403165750</marc:controlfield>
+    <marc:controlfield tag="008">170330s1987                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">715389564</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)125309</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">613.9</marc:subfield>
+      <marc:subfield code="b">CLU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">CLUBB, Elizabeth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">FERTILITY :</marc:subfield>
+      <marc:subfield code="b">A Comprehensive Guide To Natural Family Planning /</marc:subfield>
+      <marc:subfield code="c">Dr. Elizabeth Clubb</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">David &amp; Charles,</marc:subfield>
+      <marc:subfield code="c">1987</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">Natural Family Planning</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Jane Knight</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Suraya</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">BA</marc:subfield>
+      <marc:subfield code="b">BA</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">613.9 CLU</marc:subfield>
+      <marc:subfield code="p">1000701252</marc:subfield>
+      <marc:subfield code="r">2017-04-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">127584</marc:subfield>
+      <marc:subfield code="d">127584</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

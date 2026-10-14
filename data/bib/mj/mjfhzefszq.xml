@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00569pam a2200205   4500</marc:leader>
+    <marc:controlfield tag="001">186745</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170406014523</marc:controlfield>
+    <marc:controlfield tag="008">161215s2007                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789867646804</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)186745</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">398.2</marc:subfield>
+      <marc:subfield code="b">NIU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Hiu lang yu zhi nu /</marc:subfield>
+      <marc:subfield code="c">Bian ji you fu bian ji bu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Taibei :</marc:subfield>
+      <marc:subfield code="b">Da zhong guo ji shuju,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">159p. :</marc:subfield>
+      <marc:subfield code="b">col., ill.,</marc:subfield>
+      <marc:subfield code="c">21cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Zhong guo jing dian gu shi xi lie=Classical story</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Fables</marc:subfield>
+      <marc:subfield code="z">China</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Juvenile literature</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">qkl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PKK</marc:subfield>
+      <marc:subfield code="b">PKK</marc:subfield>
+      <marc:subfield code="c">CK</marc:subfield>
+      <marc:subfield code="d">2017-04-06</marc:subfield>
+      <marc:subfield code="l">10</marc:subfield>
+      <marc:subfield code="m">3</marc:subfield>
+      <marc:subfield code="o">398.2 NIU</marc:subfield>
+      <marc:subfield code="p">1001257434</marc:subfield>
+      <marc:subfield code="r">2019-04-14 00:00:00</marc:subfield>
+      <marc:subfield code="s">2019-04-07</marc:subfield>
+      <marc:subfield code="w">2017-04-06</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">201072</marc:subfield>
+      <marc:subfield code="d">201072</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

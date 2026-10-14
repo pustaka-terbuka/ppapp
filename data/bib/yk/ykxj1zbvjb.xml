@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00447pam a2200181   4500</marc:leader>
+    <marc:controlfield tag="001">120702</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170403164721</marc:controlfield>
+    <marc:controlfield tag="008">170330s1992                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">T000001572</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)120702</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">332.6</marc:subfield>
+      <marc:subfield code="b">SCO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">SCOT, David L.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">How Wall Street work :</marc:subfield>
+      <marc:subfield code="b">the basics and beyon /</marc:subfield>
+      <marc:subfield code="c">David L. Scott</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Chicag :</marc:subfield>
+      <marc:subfield code="b">Probu,</marc:subfield>
+      <marc:subfield code="c">1992</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">WALL STREET</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">332.6 SCO</marc:subfield>
+      <marc:subfield code="p">13112</marc:subfield>
+      <marc:subfield code="r">2017-04-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">124227</marc:subfield>
+      <marc:subfield code="d">124227</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

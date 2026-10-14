@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00838pam a2200277   4500</marc:leader>
+    <marc:controlfield tag="001">184663</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20190619144103</marc:controlfield>
+    <marc:controlfield tag="008">161215s2007                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789971693763</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)184663</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">959.5103</marc:subfield>
+      <marc:subfield code="b">TRO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Trocki, Carl A.</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+      <marc:subfield code="9">9857</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Prince of pirates :</marc:subfield>
+      <marc:subfield code="b">the Temenggongs and the Development of Johor and Singapore 1784-1885 /</marc:subfield>
+      <marc:subfield code="c">Carl A. Trocki</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">NUS Press,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">246 pages,</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+      <marc:subfield code="b">illustrations,</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection also</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">History</marc:subfield>
+      <marc:subfield code="z">Johor</marc:subfield>
+      <marc:subfield code="9">9858</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Johor</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="9">9859</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Singapore</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="9">9860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-06</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">959.5103 TRO</marc:subfield>
+      <marc:subfield code="p">1001269030</marc:subfield>
+      <marc:subfield code="r">2017-04-06 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-06</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">RSR</marc:subfield>
+      <marc:subfield code="d">2019-06-19</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">R 959.5103 TRO</marc:subfield>
+      <marc:subfield code="p">1001852139</marc:subfield>
+      <marc:subfield code="r">2019-06-19 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-06-19</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">199035</marc:subfield>
+      <marc:subfield code="d">199035</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

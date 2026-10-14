@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00807pam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">216041</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170404225752</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674032194 (pbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674021570 (hbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)216041</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">909.09824083</marc:subfield>
+      <marc:subfield code="b">BOS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Bose, Sugata</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="2">
+      <marc:subfield code="a">A Hundred horizons :</marc:subfield>
+      <marc:subfield code="b">The Indian Ocean in the age of Global Empire /</marc:subfield>
+      <marc:subfield code="c">Sugata Bose</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cambridge :</marc:subfield>
+      <marc:subfield code="b">Harvard University Press,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="0">
+      <marc:subfield code="a">Cambridge :</marc:subfield>
+      <marc:subfield code="b">Harvard University Press,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xii, 333pages,</marc:subfield>
+      <marc:subfield code="c">20cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">History</marc:subfield>
+      <marc:subfield code="z">Indian Ocean region</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-01-03</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">909.09824083 BOS</marc:subfield>
+      <marc:subfield code="p">1001303217</marc:subfield>
+      <marc:subfield code="r">2018-01-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-01-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">172963</marc:subfield>
+      <marc:subfield code="d">172963</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

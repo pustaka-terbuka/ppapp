@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00583pam a2200181   4500</marc:leader>
+    <marc:controlfield tag="001">158697</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170408004357</marc:controlfield>
+    <marc:controlfield tag="008">170407s1998                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)158697</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">574</marc:subfield>
+      <marc:subfield code="b">HUM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Human body</marc:subfield>
+      <marc:subfield code="h">[Electronic resource]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Canada :</marc:subfield>
+      <marc:subfield code="b">Arc Media Inc.,</marc:subfield>
+      <marc:subfield code="c">1998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 cd-rom :</marc:subfield>
+      <marc:subfield code="b">sound., colour;,</marc:subfield>
+      <marc:subfield code="c">12 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Fun filled experiments for children ages 9 and up</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Learn about the systems that make your body work, have fun with memory tricks and paper illusions...</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Human body</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">CDR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">MED</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="g">189.5</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">574 HUM</marc:subfield>
+      <marc:subfield code="p">1600028363</marc:subfield>
+      <marc:subfield code="r">2017-04-08 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">CDR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">205567</marc:subfield>
+      <marc:subfield code="d">205567</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

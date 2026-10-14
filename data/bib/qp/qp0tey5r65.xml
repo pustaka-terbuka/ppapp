@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00837pam a2200241   4500</marc:leader>
+    <marc:controlfield tag="001">187625</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170406014648</marc:controlfield>
+    <marc:controlfield tag="008">161215s2007                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9679948382</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789679948387</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)187625</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">327.51059</marc:subfield>
+      <marc:subfield code="b">SOU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Southeast Asia-China Interactions :</marc:subfield>
+      <marc:subfield code="b">reprint of articles from the journal of The Malaysian Branch, Royal Asiatic Society /</marc:subfield>
+      <marc:subfield code="c">selected and introduced by Geoff Wade; with a foreword by Wang Gungwu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">The Malaysian Branch of the Royal Asiatic Society,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvi,654p. :</marc:subfield>
+      <marc:subfield code="b">ill.,</marc:subfield>
+      <marc:subfield code="c">26cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">MBRAS</marc:subfield>
+      <marc:subfield code="v">Reprint No. 25</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="4">
+      <marc:subfield code="a">China</marc:subfield>
+      <marc:subfield code="x">Relations</marc:subfield>
+      <marc:subfield code="z">Southeast Asia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="4">
+      <marc:subfield code="a">Southeast Asia</marc:subfield>
+      <marc:subfield code="x">Relations</marc:subfield>
+      <marc:subfield code="z">China</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wade, Geoff</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wang Gungwu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">ry</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">WHI</marc:subfield>
+      <marc:subfield code="b">WHI</marc:subfield>
+      <marc:subfield code="c">RWH</marc:subfield>
+      <marc:subfield code="d">2017-04-06</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">327.51059 SOU</marc:subfield>
+      <marc:subfield code="p">1001242586</marc:subfield>
+      <marc:subfield code="r">2017-04-06 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-06</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">201938</marc:subfield>
+      <marc:subfield code="d">201938</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

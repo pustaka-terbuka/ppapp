@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00655nam a22002537a 4500</marc:leader>
+    <marc:controlfield tag="001">326124</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20221019114310</marc:controlfield>
+    <marc:controlfield tag="008">220901s2022    ii     e      000 1 tam d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)326124</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">tam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">T SAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">T</marc:subfield>
+      <marc:subfield code="b">SAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Sarayu</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+      <marc:subfield code="9">4869</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Ithayam mathuram ! /</marc:subfield>
+      <marc:subfield code="c">Sarayu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Chennai :</marc:subfield>
+      <marc:subfield code="b">Shanmuga Nilaiyam,</marc:subfield>
+      <marc:subfield code="c">2022</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">252 pages ;</marc:subfield>
+      <marc:subfield code="c">18 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Tamil fiction</marc:subfield>
+      <marc:subfield code="9">553</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">M Jayshree</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">2</marc:subfield>
+      <marc:subfield code="m">2</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55303</marc:subfield>
+      <marc:subfield code="r">2023-06-18 00:00:00</marc:subfield>
+      <marc:subfield code="s">2023-05-28</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">2</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55304</marc:subfield>
+      <marc:subfield code="r">2024-09-22 12:28:22</marc:subfield>
+      <marc:subfield code="s">2024-09-05</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55305</marc:subfield>
+      <marc:subfield code="r">2023-02-02 00:00:00</marc:subfield>
+      <marc:subfield code="s">2023-01-18</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">BM</marc:subfield>
+      <marc:subfield code="b">BM</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55306</marc:subfield>
+      <marc:subfield code="r">2022-11-25 00:00:00</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">JW</marc:subfield>
+      <marc:subfield code="b">JW</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">3</marc:subfield>
+      <marc:subfield code="m">1</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55307</marc:subfield>
+      <marc:subfield code="r">2023-10-11 00:00:00</marc:subfield>
+      <marc:subfield code="s">2023-10-05</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PPSA</marc:subfield>
+      <marc:subfield code="b">PPSA</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55308</marc:subfield>
+      <marc:subfield code="r">2023-10-19 00:00:00</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">BA</marc:subfield>
+      <marc:subfield code="b">BA</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55309</marc:subfield>
+      <marc:subfield code="r">2022-11-03 00:00:00</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PSLC</marc:subfield>
+      <marc:subfield code="b">PSLC</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-04</marc:subfield>
+      <marc:subfield code="e">LBHR/31/22</marc:subfield>
+      <marc:subfield code="g">46</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-55310</marc:subfield>
+      <marc:subfield code="r">2022-11-02 00:00:00</marc:subfield>
+      <marc:subfield code="v">46</marc:subfield>
+      <marc:subfield code="w">2022-10-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-19</marc:subfield>
+      <marc:subfield code="e">FARB/42/22</marc:subfield>
+      <marc:subfield code="g">69</marc:subfield>
+      <marc:subfield code="l">2</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-56377</marc:subfield>
+      <marc:subfield code="r">2026-08-22 16:31:07</marc:subfield>
+      <marc:subfield code="s">2026-08-08</marc:subfield>
+      <marc:subfield code="v">69</marc:subfield>
+      <marc:subfield code="w">2022-10-19</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-19</marc:subfield>
+      <marc:subfield code="e">FARB/42/22</marc:subfield>
+      <marc:subfield code="g">69</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-56378</marc:subfield>
+      <marc:subfield code="r">2022-12-02 00:00:00</marc:subfield>
+      <marc:subfield code="v">69</marc:subfield>
+      <marc:subfield code="w">2022-10-19</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">JW</marc:subfield>
+      <marc:subfield code="b">JW</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-19</marc:subfield>
+      <marc:subfield code="e">FARB/42/22</marc:subfield>
+      <marc:subfield code="g">69</marc:subfield>
+      <marc:subfield code="l">2</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-56379</marc:subfield>
+      <marc:subfield code="r">2025-12-07 13:43:12</marc:subfield>
+      <marc:subfield code="s">2025-11-30</marc:subfield>
+      <marc:subfield code="v">69</marc:subfield>
+      <marc:subfield code="w">2022-10-19</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PPTG</marc:subfield>
+      <marc:subfield code="b">PPTG</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-19</marc:subfield>
+      <marc:subfield code="e">FARB/42/22</marc:subfield>
+      <marc:subfield code="g">69</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-56380</marc:subfield>
+      <marc:subfield code="r">2022-11-03 00:00:00</marc:subfield>
+      <marc:subfield code="v">69</marc:subfield>
+      <marc:subfield code="w">2022-10-19</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PBTM</marc:subfield>
+      <marc:subfield code="b">PBTM</marc:subfield>
+      <marc:subfield code="c">TF</marc:subfield>
+      <marc:subfield code="d">2022-10-19</marc:subfield>
+      <marc:subfield code="e">FARB/42/22</marc:subfield>
+      <marc:subfield code="g">69</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">T SAR</marc:subfield>
+      <marc:subfield code="p">2022-56381</marc:subfield>
+      <marc:subfield code="r">2022-10-29 00:00:00</marc:subfield>
+      <marc:subfield code="v">69</marc:subfield>
+      <marc:subfield code="w">2022-10-19</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">326124</marc:subfield>
+      <marc:subfield code="d">326124</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

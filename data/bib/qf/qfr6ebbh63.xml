@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00619pam a2200193   4500</marc:leader>
+    <marc:controlfield tag="001">188909</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170406020046</marc:controlfield>
+    <marc:controlfield tag="008">161215s2006                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9748257347</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)188909</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">363.7285095</marc:subfield>
+      <marc:subfield code="b">INT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">International Conference on Integrated Solid Waste Management in Southeast Asian cities :</marc:subfield>
+      <marc:subfield code="b">Proceedings - July 5-7, 2004; Siem Reap, Cambodia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thailand :</marc:subfield>
+      <marc:subfield code="b">Asian Institute of Technology,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">ix, 269p. :</marc:subfield>
+      <marc:subfield code="b">ill.,</marc:subfield>
+      <marc:subfield code="c">23cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">SERI collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Solid waste management</marc:subfield>
+      <marc:subfield code="z">Asia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">RSR</marc:subfield>
+      <marc:subfield code="d">2018-01-03</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">363.7285095 INT</marc:subfield>
+      <marc:subfield code="p">1001205867</marc:subfield>
+      <marc:subfield code="r">2018-01-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-01-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">203195</marc:subfield>
+      <marc:subfield code="d">203195</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

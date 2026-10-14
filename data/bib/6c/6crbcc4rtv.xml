@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01035cam a22002891  4500</marc:leader>
+    <marc:controlfield tag="001">9318213</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20181010153737</marc:controlfield>
+    <marc:controlfield tag="008">181010s1953    ilua     b    000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)9318213</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">323.33</marc:subfield>
+      <marc:subfield code="b">FEI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fei, Hsiao-T&amp;#x2BB;ung.</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">China&apos;s gentry;</marc:subfield>
+      <marc:subfield code="b">essays in rural-urban relations.</marc:subfield>
+      <marc:subfield code="c">Hsiao-Tung Fei ; Revised &amp; edited by Margaret Park Redfield, with six life-histories of Chinese gentry families collected by Yung-teh Chow, and an introd. by Robert Redfield.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Chicago,</marc:subfield>
+      <marc:subfield code="b">University of Chicago Press</marc:subfield>
+      <marc:subfield code="c">[1953]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">v, 289 pages,</marc:subfield>
+      <marc:subfield code="b">illustrations,</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliographical footnotes.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Sociology, Rural.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">China</marc:subfield>
+      <marc:subfield code="x">Social conditions.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Redfield, Margaret Park,</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chou, Jung-t&amp;#xEA;,</marc:subfield>
+      <marc:subfield code="d">1915-</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-10-10</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">323.33 FEI</marc:subfield>
+      <marc:subfield code="p">1001851916</marc:subfield>
+      <marc:subfield code="r">2018-10-10 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-10-10</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">296701</marc:subfield>
+      <marc:subfield code="d">296701</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

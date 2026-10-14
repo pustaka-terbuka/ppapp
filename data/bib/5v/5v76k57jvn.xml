@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00819nam a22002657a 4500</marc:leader>
+    <marc:controlfield tag="001">305898</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20191014155300</marc:controlfield>
+    <marc:controlfield tag="008">191014s2009    uk ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780421959309</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)305898</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">346.4205</marc:subfield>
+      <marc:subfield code="b">KER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kerridge, Roger</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+      <marc:subfield code="9">14583</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The Law of succession</marc:subfield>
+      <marc:subfield code="c">by Roger Kerridge; assisted by A.H.R. Brierley</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Twelfth edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Thomas Reuters (Legal ) Ltd.,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">lxxxii, 350 pages,</marc:subfield>
+      <marc:subfield code="c">25.5 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontents</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Law</marc:subfield>
+      <marc:subfield code="x">Inheritance and succession</marc:subfield>
+      <marc:subfield code="9">14584</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Brierley, A. H. R.</marc:subfield>
+      <marc:subfield code="e">Assistant author</marc:subfield>
+      <marc:subfield code="9">14585</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2019-10-14</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">346.4205 KER</marc:subfield>
+      <marc:subfield code="p">1001852508</marc:subfield>
+      <marc:subfield code="r">2019-10-14 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">305898</marc:subfield>
+      <marc:subfield code="d">305898</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

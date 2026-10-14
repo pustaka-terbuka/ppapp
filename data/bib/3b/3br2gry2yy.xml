@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00798nam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000424704</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200123155008</marc:controlfield>
+    <marc:controlfield tag="008">050613t1996    nyuab  e |    001 0beng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780195900767</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000424704</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">TYT 338.04092 CHA</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT 338.04092 CHA</marc:subfield>
+      <marc:subfield code="b">CHA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chan, Anthony B.</marc:subfield>
+      <marc:subfield code="9">20291</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Li Ka-Shing : Hong Kong&apos;s elusive billionaire /</marc:subfield>
+      <marc:subfield code="c">Anthony B. Chan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Oxford :</marc:subfield>
+      <marc:subfield code="b">Oxford University Press,</marc:subfield>
+      <marc:subfield code="c">1996</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi, 251p. :</marc:subfield>
+      <marc:subfield code="b">ill., maps ;</marc:subfield>
+      <marc:subfield code="c">23cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="4">
+      <marc:subfield code="a">Li, Ka-shing,</marc:subfield>
+      <marc:subfield code="d">1928-</marc:subfield>
+      <marc:subfield code="9">20292</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Businessmen</marc:subfield>
+      <marc:subfield code="z">Hong Kong</marc:subfield>
+      <marc:subfield code="v">Biography</marc:subfield>
+      <marc:subfield code="9">20293</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2020-01-23</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 338.04092 CHA</marc:subfield>
+      <marc:subfield code="p">2000001176</marc:subfield>
+      <marc:subfield code="r">2020-02-09 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-01-23</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">309187</marc:subfield>
+      <marc:subfield code="d">309187</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

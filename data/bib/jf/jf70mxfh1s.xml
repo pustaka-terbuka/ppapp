@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00377pab a2200157  44500</marc:leader>
+    <marc:controlfield tag="001">20259</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20171016232240</marc:controlfield>
+    <marc:controlfield tag="008">171001cDAT19999CNT?? ?       0    0LNG d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)20259</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">REC/05/1(216)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">TAN Sin Chow</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Fourth title this year for Yen Min /</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Badminton</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">The Star (Sport)/171205/20</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">PCT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">257977</marc:subfield>
+      <marc:subfield code="d">257977</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

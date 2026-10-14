@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00962 am a2200289   4500</marc:leader>
+    <marc:controlfield tag="001">vtls000032344</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20171211115259</marc:controlfield>
+    <marc:controlfield tag="008">171211s1979    si            00    eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000032344</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">305.895109598</marc:subfield>
+      <marc:subfield code="b">POL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Political thinking of the Indonesian Chinese, 1900-1977 /</marc:subfield>
+      <marc:subfield code="c">edited by Leo Suryadinata</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Singapore University Press,</marc:subfield>
+      <marc:subfield code="c">1979</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1="0" ind2="0">
+      <marc:subfield code="a">251 pages,</marc:subfield>
+      <marc:subfield code="c">26 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Issued under the auspices of the Institute of Southeast Asian Studies&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Chinese in Indonesia</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Indonesia</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Suryadinata, Leo,</marc:subfield>
+      <marc:subfield code="d">1941-</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Institute of Southeast Asian Studies</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2017-12-11</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">305.895109598 POL</marc:subfield>
+      <marc:subfield code="p">1001305218</marc:subfield>
+      <marc:subfield code="r">2017-12-11 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-12-11</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">280030</marc:subfield>
+      <marc:subfield code="d">280030</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

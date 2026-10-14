@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00661pam a2200241   4500</marc:leader>
+    <marc:controlfield tag="001">162354</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170408010412</marc:controlfield>
+    <marc:controlfield tag="008">170407s2007                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">71476172</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780071476171</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)162354</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">331.702</marc:subfield>
+      <marc:subfield code="b">GOL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Goldberg, Jan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Careers for persuasive types &amp; others who won&apos;t take no for an answer /</marc:subfield>
+      <marc:subfield code="c">Jan Goldberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">2 nd edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 161 p.,</marc:subfield>
+      <marc:subfield code="c">22 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Careers For You Series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Oral communication</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Vocational guidance</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hasnah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">331.702 GOL</marc:subfield>
+      <marc:subfield code="p">1001079444</marc:subfield>
+      <marc:subfield code="r">2017-04-08 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">331.702 GOL</marc:subfield>
+      <marc:subfield code="p">1001079445</marc:subfield>
+      <marc:subfield code="r">2017-04-08 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">209034</marc:subfield>
+      <marc:subfield code="d">209034</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

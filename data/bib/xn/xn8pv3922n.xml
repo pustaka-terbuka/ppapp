@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00634pam a2200205   4500</marc:leader>
+    <marc:controlfield tag="001">121289</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170403164729</marc:controlfield>
+    <marc:controlfield tag="008">170330s1997                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">521599962</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)121289</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">332.6595</marc:subfield>
+      <marc:subfield code="b">GOM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">GOMEZ, Edmund Terence</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Malaysia&apos;s political economy :</marc:subfield>
+      <marc:subfield code="b">politics, patronage and profits /</marc:subfield>
+      <marc:subfield code="c">Edmund Terence Gomez and Jomo K.S.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New Yor :</marc:subfield>
+      <marc:subfield code="b">Cambridge University Pres,</marc:subfield>
+      <marc:subfield code="c">1997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">p.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">ECONOMIC CONDITION</marc:subfield>
+      <marc:subfield code="z">MALAYSIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">MALAYSIA</marc:subfield>
+      <marc:subfield code="x">ECONOMIC CONDITION</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">JOMO K. S.</marc:subfield>
+      <marc:subfield code="c">1952-</marc:subfield>
+      <marc:subfield code="q">Jomo Kwame Sundaram</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PDPA</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="m">1</marc:subfield>
+      <marc:subfield code="o">332.6595 GOM</marc:subfield>
+      <marc:subfield code="p">10544</marc:subfield>
+      <marc:subfield code="r">2024-05-05 15:49:19</marc:subfield>
+      <marc:subfield code="s">2024-04-05</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">124422</marc:subfield>
+      <marc:subfield code="d">124422</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00701pam a2200229 454500</marc:leader>
+    <marc:controlfield tag="001">39828</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170403074542</marc:controlfield>
+    <marc:controlfield tag="008">161215s1998    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1857152239</marc:subfield>
+      <marc:subfield code="c">Hadiah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0069-12160</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)39828</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">863</marc:subfield>
+      <marc:subfield code="b">GAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">GARCIA MARQUEZ, Gabriel.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">One hundred years of solitude /</marc:subfield>
+      <marc:subfield code="c">by Gabriel Garcia Marquez; translated from the spanish by Gregory Rabassa with an introduction by Carlos Fuentes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">David Campbell,</marc:subfield>
+      <marc:subfield code="c">1998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="350" ind1="0" ind2="0">
+      <marc:subfield code="a">Hadiah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Macondo (Imaginary place)</marc:subfield>
+      <marc:subfield code="x">Fiction.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">RABASSA, Gregory.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="1" ind2=" ">
+      <marc:subfield code="a">FUENTES, Carlos.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="946" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hadiah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="e">Hadiah</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">863 GAR</marc:subfield>
+      <marc:subfield code="p">1000540903</marc:subfield>
+      <marc:subfield code="r">2017-04-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="e">Hadiah</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">14</marc:subfield>
+      <marc:subfield code="m">10</marc:subfield>
+      <marc:subfield code="o">863 GAR</marc:subfield>
+      <marc:subfield code="p">1000540904</marc:subfield>
+      <marc:subfield code="r">2026-08-02 13:54:01</marc:subfield>
+      <marc:subfield code="s">2026-07-19</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">47777</marc:subfield>
+      <marc:subfield code="d">47777</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

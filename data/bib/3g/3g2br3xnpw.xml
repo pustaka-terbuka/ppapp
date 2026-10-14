@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00895cam a22002771  4500</marc:leader>
+    <marc:controlfield tag="001">9885202</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20180213160139</marc:controlfield>
+    <marc:controlfield tag="008">180212r19679999mauach        000 0aeng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">49210122</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)9885202</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">192</marc:subfield>
+      <marc:subfield code="b">RUS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Russell, Bertrand,</marc:subfield>
+      <marc:subfield code="d">1872-1914.</marc:subfield>
+      <marc:subfield code="e">Author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The autobiography of Bertrand Russell.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">[1st American ed.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boston,</marc:subfield>
+      <marc:subfield code="b">Little, Brown</marc:subfield>
+      <marc:subfield code="c">[1967-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">230 pages.</marc:subfield>
+      <marc:subfield code="b">illustrations</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;An Atlantic Monthly Press book.&quot;</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Russell, Bertrand,</marc:subfield>
+      <marc:subfield code="d">1872-1914</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Philosophers</marc:subfield>
+      <marc:subfield code="x">Biography</marc:subfield>
+      <marc:subfield code="z">England</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-02-12</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">192 RUS</marc:subfield>
+      <marc:subfield code="p">1001787436</marc:subfield>
+      <marc:subfield code="r">2018-02-12 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-02-12</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">288660</marc:subfield>
+      <marc:subfield code="d">288660</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

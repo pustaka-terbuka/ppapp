@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00684nam a2200265 i 4500</marc:leader>
+    <marc:controlfield tag="001">296687</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20181010114939</marc:controlfield>
+    <marc:controlfield tag="008">181010t2005           e      000 1 chi d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9882110975</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)296687</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">chi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">C KEE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">C</marc:subfield>
+      <marc:subfield code="b">KEE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ke, Er</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Zha ai meng hun pian /</marc:subfield>
+      <marc:subfield code="c">Ke Er zhu</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Hong Kong :</marc:subfield>
+      <marc:subfield code="b">Xing He Chu Ban She ,</marc:subfield>
+      <marc:subfield code="c">2005</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">221 pages ;</marc:subfield>
+      <marc:subfield code="c">19 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Xun meng yuan ; 1109</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Chinese fiction</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Lee</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">FIC</marc:subfield>
+      <marc:subfield code="a">PKMB</marc:subfield>
+      <marc:subfield code="b">PKMB</marc:subfield>
+      <marc:subfield code="c">CF</marc:subfield>
+      <marc:subfield code="d">2018-10-10</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">3</marc:subfield>
+      <marc:subfield code="o">C KEE</marc:subfield>
+      <marc:subfield code="p">1001831726</marc:subfield>
+      <marc:subfield code="r">2019-11-29 00:00:00</marc:subfield>
+      <marc:subfield code="s">2019-11-14</marc:subfield>
+      <marc:subfield code="w">2018-10-10</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">296687</marc:subfield>
+      <marc:subfield code="d">296687</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

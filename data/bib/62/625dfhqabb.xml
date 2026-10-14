@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00854cam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">4563489</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20181220163511</marc:controlfield>
+    <marc:controlfield tag="008">181220s1973    enk      b    000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">198271875</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)4563489</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">320.51</marc:subfield>
+      <marc:subfield code="b">MAC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Macpherson, C. B.</marc:subfield>
+      <marc:subfield code="q">(Crawford Brough),</marc:subfield>
+      <marc:subfield code="d">1911-1987.</marc:subfield>
+      <marc:subfield code="e">Author</marc:subfield>
+      <marc:subfield code="9">1089</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Democratic theory: essays in retrieval</marc:subfield>
+      <marc:subfield code="c">[by] C. B. Macpherson.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Oxford,</marc:subfield>
+      <marc:subfield code="b">Clarendon Press,</marc:subfield>
+      <marc:subfield code="c">1973</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xii, 255 pages.</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="350" ind1=" " ind2=" ">
+      <marc:subfield code="a">&amp;#xA3;2.75</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical rehttp://lms.penanglib.gov.my/cgi-bin/koha/cataloguing/addbiblio.pl#tab6XXferences.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Democracy.</marc:subfield>
+      <marc:subfield code="9">1090</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-12-20</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">320.51 MAC</marc:subfield>
+      <marc:subfield code="p">1001852469</marc:subfield>
+      <marc:subfield code="r">2018-12-20 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-12-20</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+      <marc:subfield code="z">Tan Liok Ee Collections</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">298426</marc:subfield>
+      <marc:subfield code="d">298426</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

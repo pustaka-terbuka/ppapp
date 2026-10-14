@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00531pam a2200205   4500</marc:leader>
+    <marc:controlfield tag="001">153205</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170824210428</marc:controlfield>
+    <marc:controlfield tag="008">000101s9999    CNT           000 0 LNG d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780802118424</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">802118429</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)153205</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">956.94</marc:subfield>
+      <marc:subfield code="b">SAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sabbagh, Karl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Palestine a personal history /</marc:subfield>
+      <marc:subfield code="c">Karl Sabbagh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Grove Press,</marc:subfield>
+      <marc:subfield code="c">2007</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xii,366p :</marc:subfield>
+      <marc:subfield code="b">ill.maps,</marc:subfield>
+      <marc:subfield code="c">24 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Palestinian Arabs</marc:subfield>
+      <marc:subfield code="x">Biography</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">mie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-08-24</marc:subfield>
+      <marc:subfield code="l">10</marc:subfield>
+      <marc:subfield code="m">6</marc:subfield>
+      <marc:subfield code="o">956.94 SAB</marc:subfield>
+      <marc:subfield code="p">1001121865</marc:subfield>
+      <marc:subfield code="r">2025-11-22 16:46:44</marc:subfield>
+      <marc:subfield code="s">2025-10-19</marc:subfield>
+      <marc:subfield code="w">2017-08-24</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">233814</marc:subfield>
+      <marc:subfield code="d">233814</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

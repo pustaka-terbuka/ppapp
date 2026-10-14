@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00831nam a22002657a 4500</marc:leader>
+    <marc:controlfield tag="001">309183</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200123151904</marc:controlfield>
+    <marc:controlfield tag="008">200123b           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789814385756</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)309183</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">TYT 991.03 HUG</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT 991.03 HUG</marc:subfield>
+      <marc:subfield code="b">HUG</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2="0">
+      <marc:subfield code="a">Hughes, John,</marc:subfield>
+      <marc:subfield code="d">1930-</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+      <marc:subfield code="9">20273</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">The end of Sukarno : a coup that misfired: a purge that ran wild. /</marc:subfield>
+      <marc:subfield code="c">by John Hughes</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Fourth edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Craft Print International Ltd,</marc:subfield>
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">325 p. :</marc:subfield>
+      <marc:subfield code="b">b&amp;w photograph,</marc:subfield>
+      <marc:subfield code="c">19 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Include Index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Indonesia</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+      <marc:subfield code="y">1966-1998.</marc:subfield>
+      <marc:subfield code="9">20274</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Politics and government</marc:subfield>
+      <marc:subfield code="9">12797</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Indonesia.</marc:subfield>
+      <marc:subfield code="9">20275</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2020-01-23</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 991.03 HUG</marc:subfield>
+      <marc:subfield code="p">2000001174</marc:subfield>
+      <marc:subfield code="r">2020-02-09 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-01-23</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">309183</marc:subfield>
+      <marc:subfield code="d">309183</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

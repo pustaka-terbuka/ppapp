@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00660pam a2200217   4500</marc:leader>
+    <marc:controlfield tag="001">184131</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170406012534</marc:controlfield>
+    <marc:controlfield tag="008">161215s2003                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9676113581</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)184131</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">643.209595113</marc:subfield>
+      <marc:subfield code="b">TIU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Tiun, Ling Ta</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Pengurusan kompleks kediaman tinggi :</marc:subfield>
+      <marc:subfield code="b">gambaran da realiti /</marc:subfield>
+      <marc:subfield code="c">Tiun Ling Ta</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Utusan Publication &amp; Distributors Sdn. Bhd.,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">162ms. :</marc:subfield>
+      <marc:subfield code="b">ill.,</marc:subfield>
+      <marc:subfield code="c">24cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Siri Pengurusan Dan Pentadbiran Utusan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Dwellings</marc:subfield>
+      <marc:subfield code="x">Management</marc:subfield>
+      <marc:subfield code="z">Pulau Pinang</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-01-03</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">643.209595113 TIU</marc:subfield>
+      <marc:subfield code="p">1001204520</marc:subfield>
+      <marc:subfield code="r">2018-01-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-01-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">198534</marc:subfield>
+      <marc:subfield code="d">198534</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

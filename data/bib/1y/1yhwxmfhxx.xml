@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00761pam a2200277   4500</marc:leader>
+    <marc:controlfield tag="001">156075</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20210105110329</marc:controlfield>
+    <marc:controlfield tag="008">000101s9999    CNT           000 0 LNG d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">74527207</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)156075</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">658.15</marc:subfield>
+      <marc:subfield code="b">BUS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">BUSINESS finance /</marc:subfield>
+      <marc:subfield code="c">Graham Peirson,Ron Bird, Rob Brown and Peter Howard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">5th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">NSW :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill,</marc:subfield>
+      <marc:subfield code="c">1990</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">vii,832p :</marc:subfield>
+      <marc:subfield code="b">24cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Cash management</marc:subfield>
+      <marc:subfield code="9">32350</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Corporations</marc:subfield>
+      <marc:subfield code="x">Finance</marc:subfield>
+      <marc:subfield code="9">32351</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Business enterprises</marc:subfield>
+      <marc:subfield code="x">Finance</marc:subfield>
+      <marc:subfield code="9">10409</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">BIRD, Ron</marc:subfield>
+      <marc:subfield code="9">32352</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">BROWN, Rob</marc:subfield>
+      <marc:subfield code="9">32353</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">PEIRSON, Graham</marc:subfield>
+      <marc:subfield code="9">32354</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">DISCUSS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Hasliza</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-08-24</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">658.15 BUS</marc:subfield>
+      <marc:subfield code="p">1000682054</marc:subfield>
+      <marc:subfield code="r">2017-08-24 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-08-24</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">236522</marc:subfield>
+      <marc:subfield code="d">236522</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

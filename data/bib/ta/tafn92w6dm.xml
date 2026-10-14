@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00996 am a2200289 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000032321</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20181121133920</marc:controlfield>
+    <marc:controlfield tag="008">181121s1979    si |   g |    00    eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000032321</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">305.89510595</marc:subfield>
+      <marc:subfield code="b">CLA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Clammer, John R.</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">The Ambiguity of identity :</marc:subfield>
+      <marc:subfield code="b">ethnicity mainteinance and change among the Straits Chinese community of Malaysia and Singapore /</marc:subfield>
+      <marc:subfield code="c">by John R. Clammer</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Institute of Southeast Asian Studies,</marc:subfield>
+      <marc:subfield code="c">1979</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1="0" ind2="0">
+      <marc:subfield code="a">iiustration, 19 pages,</marc:subfield>
+      <marc:subfield code="c">28.cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Occasional Paper / Institute of Southeast Asian Studies ;</marc:subfield>
+      <marc:subfield code="v">No.54</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Chinese</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Chinese</marc:subfield>
+      <marc:subfield code="z">Singapore</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chinese Community</marc:subfield>
+      <marc:subfield code="z">Malaysia.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chinese community</marc:subfield>
+      <marc:subfield code="z">Singapore</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-11-21</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">305.89510595 CLA</marc:subfield>
+      <marc:subfield code="p">1001851992</marc:subfield>
+      <marc:subfield code="r">2018-11-21 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-11-21</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">297756</marc:subfield>
+      <marc:subfield code="d">297756</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

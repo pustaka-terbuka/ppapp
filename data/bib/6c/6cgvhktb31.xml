@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00563pam a2200193   4500</marc:leader>
+    <marc:controlfield tag="001">182049</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170406012103</marc:controlfield>
+    <marc:controlfield tag="008">161215s2009                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781843651420</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)182049</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">398.2</marc:subfield>
+      <marc:subfield code="b">CAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Carroll, Lewis</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Alice&apos;s adventures in wonderland /</marc:subfield>
+      <marc:subfield code="c">Lewis Carroll; illustrated by Michael Foreman&apos;s</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Pavilion Children&apos;s Books,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">175 p. :</marc:subfield>
+      <marc:subfield code="b">col., ill.,</marc:subfield>
+      <marc:subfield code="c">30 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Fairy tales</marc:subfield>
+      <marc:subfield code="x">Fiction.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Foreman&apos;s, Michael</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIK</marc:subfield>
+      <marc:subfield code="d">2017-04-06</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">398.2 CAR</marc:subfield>
+      <marc:subfield code="p">1001287221</marc:subfield>
+      <marc:subfield code="r">2017-04-06 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-06</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">196724</marc:subfield>
+      <marc:subfield code="d">196724</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

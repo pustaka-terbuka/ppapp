@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00567pam a2200205   4500</marc:leader>
+    <marc:controlfield tag="001">174093</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170520010203</marc:controlfield>
+    <marc:controlfield tag="008">100608s9999    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">757300634</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)174093</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">F</marc:subfield>
+      <marc:subfield code="b">MEY</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Meyer,Stephanie H.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Teen ink :</marc:subfield>
+      <marc:subfield code="b">what matters /</marc:subfield>
+      <marc:subfield code="c">edited by Stephanie H Meyer, John.Meyer,Peggy Viljkovic</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1="3" ind2=" ">
+      <marc:subfield code="a">Florida :</marc:subfield>
+      <marc:subfield code="b">Health Comunications Ink,</marc:subfield>
+      <marc:subfield code="c">2003</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">ix.368p.,</marc:subfield>
+      <marc:subfield code="c">22cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Adolescence-literary collections</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Faridah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PBP</marc:subfield>
+      <marc:subfield code="b">PBP</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-05-20</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">F MEY</marc:subfield>
+      <marc:subfield code="p">1000785943</marc:subfield>
+      <marc:subfield code="r">2017-05-20 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-05-20</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">224689</marc:subfield>
+      <marc:subfield code="d">224689</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

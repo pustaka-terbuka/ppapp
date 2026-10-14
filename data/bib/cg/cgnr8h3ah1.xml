@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00782pam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">241379</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="008">161215s2010    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789674011772</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)241379</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">K</marc:subfield>
+      <marc:subfield code="b">HEI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Heidi</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Mengapa Saya Berani? /</marc:subfield>
+      <marc:subfield code="c">Heidi &amp; Daniel Howarth</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Batu Caves, Selangor :</marc:subfield>
+      <marc:subfield code="b">PTS One Sdn. Bhd.,</marc:subfield>
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">38 pages :</marc:subfield>
+      <marc:subfield code="b">colour illustrations,</marc:subfield>
+      <marc:subfield code="c">24 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Siri Mengapa?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Didactic fiction, English</marc:subfield>
+      <marc:subfield code="x">Translation into Malay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Children stories, English</marc:subfield>
+      <marc:subfield code="x">Translations into Malay</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Howarth, Daniel</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">sya</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">MKF</marc:subfield>
+      <marc:subfield code="d">2017-03-23</marc:subfield>
+      <marc:subfield code="l">12</marc:subfield>
+      <marc:subfield code="m">6</marc:subfield>
+      <marc:subfield code="o">K HEI</marc:subfield>
+      <marc:subfield code="p">1001674615</marc:subfield>
+      <marc:subfield code="r">2021-10-20 00:00:00</marc:subfield>
+      <marc:subfield code="s">2021-05-08</marc:subfield>
+      <marc:subfield code="w">2017-03-23</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">2475</marc:subfield>
+      <marc:subfield code="d">2475</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

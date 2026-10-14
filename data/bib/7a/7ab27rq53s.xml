@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01021cam a2200277 a 4500</marc:leader>
+    <marc:controlfield tag="001">4376077</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20171221162102</marc:controlfield>
+    <marc:controlfield tag="008">171221r19881935my a     b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">90945533</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)4376077</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">959.51</marc:subfield>
+      <marc:subfield code="b">WIN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Winstedt, Richard,</marc:subfield>
+      <marc:subfield code="d">1878-1966.</marc:subfield>
+      <marc:subfield code="e">Author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="2">
+      <marc:subfield code="a">A history of Malaya /</marc:subfield>
+      <marc:subfield code="c">by Richard O. Winstedt.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">Rev. and enl.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Marican &amp; Sons (Malaysia),</marc:subfield>
+      <marc:subfield code="c">1988</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">288 pages (1 folded) :</marc:subfield>
+      <marc:subfield code="b">illustration ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Originally published as Journal of the Malayan Branch of the Royal Asiatic Society, pt. 1, v. 13, 1935.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p. 277-284) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="1" ind2="0">
+      <marc:subfield code="a">Malaya</marc:subfield>
+      <marc:subfield code="x">History.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2017-12-21</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">959.51 WIN</marc:subfield>
+      <marc:subfield code="p">1001305319</marc:subfield>
+      <marc:subfield code="r">2017-12-21 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-12-21</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">280260</marc:subfield>
+      <marc:subfield code="d">280260</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

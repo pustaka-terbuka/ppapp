@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00831pam a2200229   4500</marc:leader>
+    <marc:controlfield tag="001">212506</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170404223758</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">786845414</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)212506</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">K</marc:subfield>
+      <marc:subfield code="b">RIS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="4">
+      <marc:subfield code="a">The Rise and fall of the Kate Empire /</marc:subfield>
+      <marc:subfield code="c">Adapted by Kirsten Larsen ; based on the series crated by Terri Minsky ; Part one is based on a teleplay written by Nina G. Bargiel and Jeremy J. Bargiel ; part two is based on a teleplay written by Allison Taylor.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Disney Enterprises Inc.,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">137pages :</marc:subfield>
+      <marc:subfield code="b">illustrated,</marc:subfield>
+      <marc:subfield code="c">19cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Lizzie McGuire</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">English fiction</marc:subfield>
+      <marc:subfield code="x">Juvenile fiction</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Tan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">IKF</marc:subfield>
+      <marc:subfield code="d">2017-04-04</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">K RIS</marc:subfield>
+      <marc:subfield code="p">1001393838</marc:subfield>
+      <marc:subfield code="r">2019-03-16 00:00:00</marc:subfield>
+      <marc:subfield code="s">2019-03-09</marc:subfield>
+      <marc:subfield code="w">2017-04-04</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">169871</marc:subfield>
+      <marc:subfield code="d">169871</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

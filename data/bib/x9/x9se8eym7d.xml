@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00442pam a2200181   4500</marc:leader>
+    <marc:controlfield tag="001">159169</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170408004435</marc:controlfield>
+    <marc:controlfield tag="008">170407s9999                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789831979839</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)159169</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">363.34</marc:subfield>
+      <marc:subfield code="b">NAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Natural disasters</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Synergy Media,</marc:subfield>
+      <marc:subfield code="c">[?]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">46 p. :</marc:subfield>
+      <marc:subfield code="b">col.ill.,</marc:subfield>
+      <marc:subfield code="c">28 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">How Nature Works</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">Faudziah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">BR2</marc:subfield>
+      <marc:subfield code="b">BR2</marc:subfield>
+      <marc:subfield code="c">BIK</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="g">8.9</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">363.34 NAT</marc:subfield>
+      <marc:subfield code="p">1001025187</marc:subfield>
+      <marc:subfield code="r">2017-04-08 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">206007</marc:subfield>
+      <marc:subfield code="d">206007</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

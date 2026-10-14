@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00387nam a2200133Ia 4500</marc:leader>
+    <marc:controlfield tag="001">288768</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20180215001742</marc:controlfield>
+    <marc:controlfield tag="008">180214s9999    xx            000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">839115709</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)288768</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">617.53301 REA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">READINGS in speech following total laryngectomy /</marc:subfield>
+      <marc:subfield code="c">edited by Bernd Weinberg.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Baltimore :</marc:subfield>
+      <marc:subfield code="b">University Park Press.</marc:subfield>
+      <marc:subfield code="c">1980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">New Cat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">SUK</marc:subfield>
+      <marc:subfield code="b">SUK</marc:subfield>
+      <marc:subfield code="c">SUK</marc:subfield>
+      <marc:subfield code="d">2018-02-15</marc:subfield>
+      <marc:subfield code="e">&lt; None &gt;</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">617.53301 REA</marc:subfield>
+      <marc:subfield code="p">3000002527</marc:subfield>
+      <marc:subfield code="r">2018-02-15 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-02-15</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">288768</marc:subfield>
+      <marc:subfield code="d">288768</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

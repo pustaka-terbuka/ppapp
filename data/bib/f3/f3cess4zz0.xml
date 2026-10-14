@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00567pam a2200193   4500</marc:leader>
+    <marc:controlfield tag="001">163517</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170408010618</marc:controlfield>
+    <marc:controlfield tag="008">170407s2006                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">7534240026</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)163517</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">398.2</marc:subfield>
+      <marc:subfield code="b">YIN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Ying xiang zhong guo hai zi de 100 ge jing dian gu shi /</marc:subfield>
+      <marc:subfield code="c">Nong fu deng kai bian; Liu Yu Hai deng hui</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Hangzhou :</marc:subfield>
+      <marc:subfield code="b">Zhe jiang shao nian er tong chu ban she,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">491p. :</marc:subfield>
+      <marc:subfield code="b">col.ill.,</marc:subfield>
+      <marc:subfield code="c">24 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Folk literature</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Liu, Yu Hai</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">qkl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">CK</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">398.2 YIN</marc:subfield>
+      <marc:subfield code="p">1001179686</marc:subfield>
+      <marc:subfield code="r">2017-04-08 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">BP</marc:subfield>
+      <marc:subfield code="b">PKK</marc:subfield>
+      <marc:subfield code="c">CK</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">5</marc:subfield>
+      <marc:subfield code="o">398.2 YIN</marc:subfield>
+      <marc:subfield code="p">1001179687</marc:subfield>
+      <marc:subfield code="q">2018-01-20</marc:subfield>
+      <marc:subfield code="r">2018-01-06 00:00:00</marc:subfield>
+      <marc:subfield code="s">2018-01-06</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">210066</marc:subfield>
+      <marc:subfield code="d">210066</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

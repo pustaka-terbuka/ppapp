@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00951cam a2200265 a 4500</marc:leader>
+    <marc:controlfield tag="001">4715458</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20171031110115</marc:controlfield>
+    <marc:controlfield tag="008">171030s1988    my a     b    001 0 eng</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">83022262</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9679782506</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)4715458</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">297.1975</marc:subfield>
+      <marc:subfield code="b">TOU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="4">
+      <marc:subfield code="a">The Touch of Midas :</marc:subfield>
+      <marc:subfield code="b">science, values, and environment in Islam and the West /</marc:subfield>
+      <marc:subfield code="c">edited by Ziauddin Sardar.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Manchester, U.K. ;</marc:subfield>
+      <marc:subfield code="a">Dover, N.H., U.S.A. :</marc:subfield>
+      <marc:subfield code="b">Manchester University Press,</marc:subfield>
+      <marc:subfield code="c">c1984.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">253 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations ;</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Science</marc:subfield>
+      <marc:subfield code="x">Moral and ethical aspects.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Science</marc:subfield>
+      <marc:subfield code="z">Europe.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Islam and science.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1="0" ind2="0">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2017-10-30</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">297.1975 TOU</marc:subfield>
+      <marc:subfield code="p">1001305050</marc:subfield>
+      <marc:subfield code="r">2017-10-30 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-10-30</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">278755</marc:subfield>
+      <marc:subfield code="d">278755</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

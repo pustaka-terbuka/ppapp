@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00627pam a2200217   4500</marc:leader>
+    <marc:controlfield tag="001">161748</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170408010253</marc:controlfield>
+    <marc:controlfield tag="008">170407s2008                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781848310056</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)161748</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">902</marc:subfield>
+      <marc:subfield code="b">MAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Marsh, W.B.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">366 :</marc:subfield>
+      <marc:subfield code="b">a leap year of great stories from history for every day of the year /</marc:subfield>
+      <marc:subfield code="c">Marsh, W.B. and  Bruce Carrick</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="4">
+      <marc:subfield code="a">Three hundred and sixty- six</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Thriplow :</marc:subfield>
+      <marc:subfield code="b">Icon Books,</marc:subfield>
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xxxiii, 618 p. ; 20 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">History</marc:subfield>
+      <marc:subfield code="x">Miscellanea</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Carrick, Bruce</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">Norlina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">7</marc:subfield>
+      <marc:subfield code="m">2</marc:subfield>
+      <marc:subfield code="o">902 MAR</marc:subfield>
+      <marc:subfield code="p">1001102514</marc:subfield>
+      <marc:subfield code="r">2024-04-02 11:32:19</marc:subfield>
+      <marc:subfield code="s">2024-02-16</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">4</marc:subfield>
+      <marc:subfield code="m">1</marc:subfield>
+      <marc:subfield code="o">902 MAR</marc:subfield>
+      <marc:subfield code="p">1001102515</marc:subfield>
+      <marc:subfield code="r">2018-03-10 00:00:00</marc:subfield>
+      <marc:subfield code="s">2018-02-25</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">208499</marc:subfield>
+      <marc:subfield code="d">208499</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00467pam a2200193   4500</marc:leader>
+    <marc:controlfield tag="001">150920</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170824205147</marc:controlfield>
+    <marc:controlfield tag="008">000101s9999    CNT           000 0 LNG d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1840892471</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)150920</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">B</marc:subfield>
+      <marc:subfield code="b">GOT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Got, Yves</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Louie loves to play /</marc:subfield>
+      <marc:subfield code="c">Yves Got</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Berkshire :</marc:subfield>
+      <marc:subfield code="b">Zero To Ten,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">[18] p. :</marc:subfield>
+      <marc:subfield code="b">col.ill.,</marc:subfield>
+      <marc:subfield code="c">21 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Reading readiness</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">fm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">IBF</marc:subfield>
+      <marc:subfield code="d">2017-08-24</marc:subfield>
+      <marc:subfield code="g">21.35</marc:subfield>
+      <marc:subfield code="l">8</marc:subfield>
+      <marc:subfield code="m">2</marc:subfield>
+      <marc:subfield code="o">B GOT</marc:subfield>
+      <marc:subfield code="p">1001053086</marc:subfield>
+      <marc:subfield code="r">2022-05-11 00:00:00</marc:subfield>
+      <marc:subfield code="s">2022-04-28</marc:subfield>
+      <marc:subfield code="w">2017-08-24</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">231723</marc:subfield>
+      <marc:subfield code="d">231723</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

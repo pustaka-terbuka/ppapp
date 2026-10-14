@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00882pam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">185124</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200114160557</marc:controlfield>
+    <marc:controlfield tag="008">110420         my                  eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">NIL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)185124</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">333.73153</marc:subfield>
+      <marc:subfield code="b">PER</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="1" ind2=" ">
+      <marc:subfield code="a">Perak, Universiti Sains Malaysia</marc:subfield>
+      <marc:subfield code="9">19589</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">LARREN &apos;97 :</marc:subfield>
+      <marc:subfield code="b">Proceedings International Conference on Land Reclamation and Rehabilitation, 25-27 August 1997 /</marc:subfield>
+      <marc:subfield code="c">Universiti Sains Malaysia, Perak</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="1" ind2="0">
+      <marc:subfield code="a">Proceedings International Conference on Land reclamation and rehabilitation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Tronoh, Perak :</marc:subfield>
+      <marc:subfield code="b">USM,</marc:subfield>
+      <marc:subfield code="c">1997</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 456 pages,</marc:subfield>
+      <marc:subfield code="b">illustrations,</marc:subfield>
+      <marc:subfield code="c">29.5cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Land reclamation</marc:subfield>
+      <marc:subfield code="9">19590</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-01-03</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">R 333.73153 PER</marc:subfield>
+      <marc:subfield code="p">1001204993</marc:subfield>
+      <marc:subfield code="r">2020-09-03 00:00:00</marc:subfield>
+      <marc:subfield code="s">2020-01-15</marc:subfield>
+      <marc:subfield code="w">2018-01-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">285261</marc:subfield>
+      <marc:subfield code="d">285261</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

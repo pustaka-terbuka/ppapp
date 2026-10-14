@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01019nam a2200325 i 4500</marc:leader>
+    <marc:controlfield tag="001">333899</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20241030103023</marc:controlfield>
+    <marc:controlfield tag="008">230511s2023    si a   j      000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">nil</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789811268243</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)333899</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="2">23</marc:subfield>
+      <marc:subfield code="a">K 579 RUS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">K 579</marc:subfield>
+      <marc:subfield code="b">RUS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Russ</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">86998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Microbes Everywhere! /</marc:subfield>
+      <marc:subfield code="c">Unpeeled by Russ and Yammy with Kei Fujimora ; Illustrated by Shaul Heymans</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">WS Publishing,</marc:subfield>
+      <marc:subfield code="c">2023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">113 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations ;</marc:subfield>
+      <marc:subfield code="c">23 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Part of the Science Everywhere! series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Microbiology</marc:subfield>
+      <marc:subfield code="9">41665</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Microbiology</marc:subfield>
+      <marc:subfield code="x">Juvenile literature</marc:subfield>
+      <marc:subfield code="9">86999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Yammy</marc:subfield>
+      <marc:subfield code="e">authur.</marc:subfield>
+      <marc:subfield code="9">87000</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kei, Fuijimura</marc:subfield>
+      <marc:subfield code="9">87001</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Heymans, Shaul</marc:subfield>
+      <marc:subfield code="e">illustrator.</marc:subfield>
+      <marc:subfield code="9">87002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="c">BOK_KK</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">sabrina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">333899</marc:subfield>
+      <marc:subfield code="d">333899</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

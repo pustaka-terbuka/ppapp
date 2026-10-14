@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01023nam a2200313 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000633563</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20200921105057</marc:controlfield>
+    <marc:controlfield tag="008">200921t2006    enka   e      001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780007229680 (pbk.) :</marc:subfield>
+      <marc:subfield code="c">RM49.90</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000633563</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="2" ind2="0">
+      <marc:subfield code="a">926.415</marc:subfield>
+      <marc:subfield code="b">RAM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ramsay, Gordon</marc:subfield>
+      <marc:subfield code="e">Author</marc:subfield>
+      <marc:subfield code="9">26777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Gordon Ramsay :</marc:subfield>
+      <marc:subfield code="b">humble pie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2=" ">
+      <marc:subfield code="a">Humble pie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="4">
+      <marc:subfield code="a">Gordon Ramsay :</marc:subfield>
+      <marc:subfield code="b">my autobiography : humble pie</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">HarperCollins Publishers,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">331pages :</marc:subfield>
+      <marc:subfield code="b">colour illustrations. ;</marc:subfield>
+      <marc:subfield code="c">20cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="0">
+      <marc:subfield code="a">Ramsay, Gordon</marc:subfield>
+      <marc:subfield code="9">26777</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Cooks</marc:subfield>
+      <marc:subfield code="z">Great Britain</marc:subfield>
+      <marc:subfield code="v">Biography</marc:subfield>
+      <marc:subfield code="9">26778</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Adult children of alcoholics</marc:subfield>
+      <marc:subfield code="z">Great Britain</marc:subfield>
+      <marc:subfield code="z">Biography</marc:subfield>
+      <marc:subfield code="9">26779</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Abusive men</marc:subfield>
+      <marc:subfield code="x">Family relationships</marc:subfield>
+      <marc:subfield code="z">Great Britain</marc:subfield>
+      <marc:subfield code="9">26780</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2020-09-21</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">926.415 RAM</marc:subfield>
+      <marc:subfield code="p">1001931095</marc:subfield>
+      <marc:subfield code="r">2020-09-21 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-09-21</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">312614</marc:subfield>
+      <marc:subfield code="d">312614</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01061nam a2200301   4500</marc:leader>
+    <marc:controlfield tag="001">vtls000224635</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20200603115204</marc:controlfield>
+    <marc:controlfield tag="008">200603s1995    xxk           00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">112905811</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000224635</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">327.595106041</marc:subfield>
+      <marc:subfield code="b">MAL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Malaysia /</marc:subfield>
+      <marc:subfield code="c">editor A J Stockwell</marc:subfield>
+      <marc:subfield code="b">British documents on the end of empire Series B Volume 8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Institute of Commonwealth Studies</marc:subfield>
+      <marc:subfield code="c">2004</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">cxiii, 723 pages :</marc:subfield>
+      <marc:subfield code="c">26cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1=" " ind2=" ">
+      <marc:subfield code="a">British documents on the end of empire ;</marc:subfield>
+      <marc:subfield code="v">Series B volume 8</marc:subfield>
+      <marc:subfield code="9">23279</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographies and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">History</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="9">8556</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="2">Foreign relations</marc:subfield>
+      <marc:subfield code="z">Great Britain</marc:subfield>
+      <marc:subfield code="9">23283</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="2">Foreign relations</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="9">17786</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Stockwell, A. J.</marc:subfield>
+      <marc:subfield code="e">Editor</marc:subfield>
+      <marc:subfield code="9">23281</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">University of London.</marc:subfield>
+      <marc:subfield code="b">Institute of Commonwealth Studies</marc:subfield>
+      <marc:subfield code="9">23282</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2020-06-03</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">R 327.595106041 MAL</marc:subfield>
+      <marc:subfield code="p">1001931047</marc:subfield>
+      <marc:subfield code="r">2020-06-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-06-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+      <marc:subfield code="z">Series B volume 8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">310131</marc:subfield>
+      <marc:subfield code="d">310131</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

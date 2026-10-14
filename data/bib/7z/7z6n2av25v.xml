@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00885pam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">234589</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170423013707</marc:controlfield>
+    <marc:controlfield tag="008">150925s2011                        chi d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789574705597</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)234589</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">158.1</marc:subfield>
+      <marc:subfield code="b">DRU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="091" ind1="0" ind2="0">
+      <marc:subfield code="a">158.1 DRU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Drubin, Daniel T.</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Jie kou yu wan mei, ren sheng jiu yu bu wan mei=Letting go of your bananas :</marc:subfield>
+      <marc:subfield code="b">rang ni tuo li ( jie kou hui lu ) de 12 ge guan jian zhi ling /</marc:subfield>
+      <marc:subfield code="c">zuo zhe: Drubin Daniel T., yi zhe: Huang Han Yao</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Taipei :</marc:subfield>
+      <marc:subfield code="b">Ren Ben Zi Ran Wen Hua Shi Ye You Xian Gong Si,</marc:subfield>
+      <marc:subfield code="c">2011</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">210 pages,</marc:subfield>
+      <marc:subfield code="c">21 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">Li zhi xi; 018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Success</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Huang, Han Yao</marc:subfield>
+      <marc:subfield code="e">translator</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">lee</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">BR7</marc:subfield>
+      <marc:subfield code="c">C</marc:subfield>
+      <marc:subfield code="d">2017-04-23</marc:subfield>
+      <marc:subfield code="l">11</marc:subfield>
+      <marc:subfield code="m">10</marc:subfield>
+      <marc:subfield code="o">158.1 DRU</marc:subfield>
+      <marc:subfield code="p">1001592407</marc:subfield>
+      <marc:subfield code="r">2020-06-19 00:00:00</marc:subfield>
+      <marc:subfield code="s">2020-05-21</marc:subfield>
+      <marc:subfield code="w">2017-04-23</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">218941</marc:subfield>
+      <marc:subfield code="d">218941</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00560pam a2200205 454500</marc:leader>
+    <marc:controlfield tag="001">57365</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170403084148</marc:controlfield>
+    <marc:controlfield tag="008">970908s1993    us            00  0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">333570049</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">2030-42360</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)57365</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">823.912 FIL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">FILMER, Kath.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">The fiction of C. S. Lewis :</marc:subfield>
+      <marc:subfield code="b">mask and mirror /</marc:subfield>
+      <marc:subfield code="c">by Kath Filmer</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">St. Martin&apos;s Inc.,</marc:subfield>
+      <marc:subfield code="c">1993</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="350" ind1=" " ind2=" ">
+      <marc:subfield code="a">RM 66.50</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="0" ind2="0">
+      <marc:subfield code="a">Lewis, C. S. (Clive Staples), 1898-1963</marc:subfield>
+      <marc:subfield code="x">fictional works.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="946" ind1="0" ind2="0">
+      <marc:subfield code="a">M</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-03</marc:subfield>
+      <marc:subfield code="e">M</marc:subfield>
+      <marc:subfield code="g">66.5</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">823.912 FIL</marc:subfield>
+      <marc:subfield code="p">1000084189</marc:subfield>
+      <marc:subfield code="r">2024-07-09 00:00:00</marc:subfield>
+      <marc:subfield code="s">2020-08-11</marc:subfield>
+      <marc:subfield code="w">2017-04-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">65098</marc:subfield>
+      <marc:subfield code="d">65098</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

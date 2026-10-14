@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00512pam a2200169   4500</marc:leader>
+    <marc:controlfield tag="001">30699</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170327153142</marc:controlfield>
+    <marc:controlfield tag="008">161215s1999    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1576750582</marc:subfield>
+      <marc:subfield code="c">RM199.80</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0058-94660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)30699</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">658.406</marc:subfield>
+      <marc:subfield code="b">CHA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">The change hanbook:</marc:subfield>
+      <marc:subfield code="b">group methods for shaping the future /</marc:subfield>
+      <marc:subfield code="c">edited by Peggy Holman and Tom Devare</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">San Francisco :</marc:subfield>
+      <marc:subfield code="b">Berrett-Koehler Publishers,</marc:subfield>
+      <marc:subfield code="c">1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">Organizational change.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIR</marc:subfield>
+      <marc:subfield code="d">2017-03-27</marc:subfield>
+      <marc:subfield code="e">One-Stop Magazine Agency 2-4-07 Harbour Trade Centre Gat Lebuh Macallum,10300 Penang Tel 04-2632733</marc:subfield>
+      <marc:subfield code="g">199.8</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">658.406 CHA</marc:subfield>
+      <marc:subfield code="p">1000203747</marc:subfield>
+      <marc:subfield code="r">2017-03-27 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-03-27</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">1</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">ZZZ</marc:subfield>
+      <marc:subfield code="d">2017-03-27</marc:subfield>
+      <marc:subfield code="e">One-Stop Magazine Agency 2-4-07 Harbour Trade Centre Gat Lebuh Macallum,10300 Penang Tel 04-2632733</marc:subfield>
+      <marc:subfield code="g">199.8</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">658.406 CHA</marc:subfield>
+      <marc:subfield code="p">1000203748</marc:subfield>
+      <marc:subfield code="r">2017-03-27 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-03-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">18660</marc:subfield>
+      <marc:subfield code="d">18660</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

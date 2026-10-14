@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01430nam a2200325 a 4500</marc:leader>
+    <marc:controlfield tag="001">305207</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20190924105940</marc:controlfield>
+    <marc:controlfield tag="008">100630s2009    my |   e |    000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789834189426 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)305207</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">BNM</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">mal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">305.899225 RIT</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">305.899225</marc:subfield>
+      <marc:subfield code="b">RIT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ritchie, James A.</marc:subfield>
+      <marc:subfield code="q">(James Alexander),</marc:subfield>
+      <marc:subfield code="c">Datuk,</marc:subfield>
+      <marc:subfield code="d">1950-</marc:subfield>
+      <marc:subfield code="9">12479</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Penan on the move :</marc:subfield>
+      <marc:subfield code="b">a reporter&apos;s travelogue /</marc:subfield>
+      <marc:subfield code="c">James Ritchie ; edited by Catriona Maddocks ... [et al.]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[S.l.] :</marc:subfield>
+      <marc:subfield code="b">James Ritchie,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+      <marc:subfield code="b">[Publication not identified] ;</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 242 pages :</marc:subfield>
+      <marc:subfield code="b">colour illustrations ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">A journalist&apos;s account of an indigenous tribe,transforming from a nomadic to a settled existence, as they attempt to cope with the social and environmental changes that have accompanied development over the past 25 years</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Penan (Bornean people)</marc:subfield>
+      <marc:subfield code="z">Sarawak</marc:subfield>
+      <marc:subfield code="x">Social conditions</marc:subfield>
+      <marc:subfield code="9">12480</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Indigenous peoples</marc:subfield>
+      <marc:subfield code="z">Sarawak</marc:subfield>
+      <marc:subfield code="9">12481</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Penan (Bornean people)</marc:subfield>
+      <marc:subfield code="z">Sarawak</marc:subfield>
+      <marc:subfield code="x">Government relations</marc:subfield>
+      <marc:subfield code="9">12482</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Penan (Bornean people)</marc:subfield>
+      <marc:subfield code="z">Sarawak</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+      <marc:subfield code="9">12483</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Maddocks, Catriona</marc:subfield>
+      <marc:subfield code="9">12484</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">Manja</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2019-09-26</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 305.899225 RIT</marc:subfield>
+      <marc:subfield code="p">2000000203</marc:subfield>
+      <marc:subfield code="r">2020-01-17 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-09-26</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">305207</marc:subfield>
+      <marc:subfield code="d">305207</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

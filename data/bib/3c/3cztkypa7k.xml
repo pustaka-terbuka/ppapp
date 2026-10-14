@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01120nam a2200313 a 4500</marc:leader>
+    <marc:controlfield tag="001">2450413</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20180102150423</marc:controlfield>
+    <marc:controlfield tag="008">180102s1987    my ac         000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)2450413</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">320.95955</marc:subfield>
+      <marc:subfield code="b">PEO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="4">
+      <marc:subfield code="a">The People&apos;s Party of Brunei :</marc:subfield>
+      <marc:subfield code="b">selected documents /</marc:subfield>
+      <marc:subfield code="c">[edited] by Haji Zaini Haji Ahmad.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Petaling Jaya :</marc:subfield>
+      <marc:subfield code="b">Institute of Social Analysis,</marc:subfield>
+      <marc:subfield code="c">[1987?]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xvii, 370 pages,</marc:subfield>
+      <marc:subfield code="b">illustrations, ports. ;</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cover title: Partai Rakyat Brunei.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Partai Rakyat Brunei.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Brunei</marc:subfield>
+      <marc:subfield code="x">Politics and government</marc:subfield>
+      <marc:subfield code="x">Sources.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Zaini Haji Ahmad,</marc:subfield>
+      <marc:subfield code="c">Haji.</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Institut Analisa Sosial (Malaysia)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1="0" ind2=" ">
+      <marc:subfield code="a">Partai Rakyat Brunei.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-01-03</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">320.95955 PEO</marc:subfield>
+      <marc:subfield code="p">1001305366</marc:subfield>
+      <marc:subfield code="r">2018-01-03 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-01-03</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">280423</marc:subfield>
+      <marc:subfield code="d">280423</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

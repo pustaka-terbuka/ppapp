@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00641pam a2200229   4500</marc:leader>
+    <marc:controlfield tag="001">174769</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170520011424</marc:controlfield>
+    <marc:controlfield tag="008">100601s9999    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">Nil</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)174769</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">328.109595</marc:subfield>
+      <marc:subfield code="b">PAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="0" ind2=" ">
+      <marc:subfield code="a">Malaysia, Parliamen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Peraturan-peraturan majlis mesyuarat dewan rakyat= standing orders of the Dewan Rakyat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">9th ed.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Jabatan Percetakan Negara,</marc:subfield>
+      <marc:subfield code="c">1986</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 265p.,</marc:subfield>
+      <marc:subfield code="c">18cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Legislation</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="4">
+      <marc:subfield code="a">Parliamentary practice</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">sabrina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PDNP</marc:subfield>
+      <marc:subfield code="b">PDNP</marc:subfield>
+      <marc:subfield code="c">RDN</marc:subfield>
+      <marc:subfield code="d">2017-05-20</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">328.109595 PAR</marc:subfield>
+      <marc:subfield code="p">1001117295</marc:subfield>
+      <marc:subfield code="r">2017-05-20 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-05-20</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">225328</marc:subfield>
+      <marc:subfield code="d">225328</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

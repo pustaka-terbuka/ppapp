@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00929cam a2200289 i 4500</marc:leader>
+    <marc:controlfield tag="001">894598</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20171031143744</marc:controlfield>
+    <marc:controlfield tag="008">171031s1980    enk      b    000 0 eng</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">80508425</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0710005490 (pbk.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)894598</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">338.008</marc:subfield>
+      <marc:subfield code="b">ART</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="4">
+      <marc:subfield code="a">The Articulation of modes of production :</marc:subfield>
+      <marc:subfield code="b">essays from Economy and society /</marc:subfield>
+      <marc:subfield code="c">edited and with an introd. by Harold Wolpe.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">London ;</marc:subfield>
+      <marc:subfield code="b">Boston :</marc:subfield>
+      <marc:subfield code="b">Routledge &amp; K. Paul,</marc:subfield>
+      <marc:subfield code="c">1980</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">320 pages ;</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography: p. 320.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Marxian economics.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Capitalism.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Economic anthropology.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Wolpe, Harold.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="730" ind1=" " ind2=" ">
+      <marc:subfield code="a">Economy and society.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="740" ind1=" " ind2=" ">
+      <marc:subfield code="a">Modes of production.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1="0" ind2="0">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2017-10-31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">338.008 ART</marc:subfield>
+      <marc:subfield code="p">1001305055</marc:subfield>
+      <marc:subfield code="r">2017-10-31 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-10-31</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">278765</marc:subfield>
+      <marc:subfield code="d">278765</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

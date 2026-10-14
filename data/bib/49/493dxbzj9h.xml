@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00693nam a22002297a 4500</marc:leader>
+    <marc:controlfield tag="001">313147</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20201030115611</marc:controlfield>
+    <marc:controlfield tag="008">201030b           ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">NIL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)313147</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)313148</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="2">KKM 302.23 JAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">302.23</marc:subfield>
+      <marc:subfield code="b">JAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="1" ind2="0">
+      <marc:subfield code="a">Bahagian Media Dan Komunikasi Korporat</marc:subfield>
+      <marc:subfield code="9">27927</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="1">
+      <marc:subfield code="a">Jabatan Penerangan Malaysia: Peraturan Tetap Operasi Pengendalian Pusat Pengurusan Media Bencana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1="0" ind2="0">
+      <marc:subfield code="a">Kuala Lumpur:</marc:subfield>
+      <marc:subfield code="b">Jabatan Penerangan Malaysia;</marc:subfield>
+      <marc:subfield code="c">?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">ms:44</marc:subfield>
+      <marc:subfield code="b">col; cart</marc:subfield>
+      <marc:subfield code="c">cm:29</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2=" ">
+      <marc:subfield code="x">Media</marc:subfield>
+      <marc:subfield code="z">Malaysia</marc:subfield>
+      <marc:subfield code="9">27928</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2=" ">
+      <marc:subfield code="x">Guideline</marc:subfield>
+      <marc:subfield code="9">27929</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">Rohana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">313147</marc:subfield>
+      <marc:subfield code="d">313147</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

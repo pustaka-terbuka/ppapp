@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00852nam a22002777a 4500</marc:leader>
+    <marc:controlfield tag="001">317380</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20210503112831</marc:controlfield>
+    <marc:controlfield tag="008">210317b2021           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781260565911</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)317380</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">003.71 PAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">3.71</marc:subfield>
+      <marc:subfield code="b">PAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1=" " ind2=" ">
+      <marc:subfield code="a">Patt,Yale n.</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">37744</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Introduction to computing systems : from bits &amp; gates to C/C++ &amp; beyond /</marc:subfield>
+      <marc:subfield code="c">Yale n. Patt</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">third edition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">McGraw-Hill Education,</marc:subfield>
+      <marc:subfield code="c">2020</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">viii, 772 pages:</marc:subfield>
+      <marc:subfield code="c">23 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">text</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">volume</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Information systems</marc:subfield>
+      <marc:subfield code="9">37745</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1="2" ind2="0">
+      <marc:subfield code="a">Computer software</marc:subfield>
+      <marc:subfield code="9">37746</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1=" " ind2=" ">
+      <marc:subfield code="a">Patel,Sanjay j.</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">37747</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Basirah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-03-26</marc:subfield>
+      <marc:subfield code="e">AEDT/99/20</marc:subfield>
+      <marc:subfield code="g">114</marc:subfield>
+      <marc:subfield code="l">7</marc:subfield>
+      <marc:subfield code="m">5</marc:subfield>
+      <marc:subfield code="o">003.71 PAT</marc:subfield>
+      <marc:subfield code="p">2021-27185</marc:subfield>
+      <marc:subfield code="r">2024-09-08 10:46:05</marc:subfield>
+      <marc:subfield code="s">2024-08-17</marc:subfield>
+      <marc:subfield code="v">114</marc:subfield>
+      <marc:subfield code="w">2021-03-26</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-03-26</marc:subfield>
+      <marc:subfield code="e">AEDT/99/20</marc:subfield>
+      <marc:subfield code="g">114</marc:subfield>
+      <marc:subfield code="l">32</marc:subfield>
+      <marc:subfield code="m">19</marc:subfield>
+      <marc:subfield code="o">003.71 PAT</marc:subfield>
+      <marc:subfield code="p">2021-27186</marc:subfield>
+      <marc:subfield code="r">2026-04-12 16:30:52</marc:subfield>
+      <marc:subfield code="s">2026-03-28</marc:subfield>
+      <marc:subfield code="v">114</marc:subfield>
+      <marc:subfield code="w">2021-03-26</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">317380</marc:subfield>
+      <marc:subfield code="d">317380</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

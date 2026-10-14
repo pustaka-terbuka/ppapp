@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01332cam a2200289   4500</marc:leader>
+    <marc:controlfield tag="001">3655043</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20181022144946</marc:controlfield>
+    <marc:controlfield tag="008">181022s1971    nyu      b    000 0 eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">013780783X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0137807559 (pbk)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)3655043</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">301.63</marc:subfield>
+      <marc:subfield code="b">REV</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Kent, Edward,</marc:subfield>
+      <marc:subfield code="d">1933-</marc:subfield>
+      <marc:subfield code="e">Editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Revolution and the rule of law,</marc:subfield>
+      <marc:subfield code="c">edited by Edward Kent.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2=" ">
+      <marc:subfield code="a">Englewood Cliffs, N.J.,</marc:subfield>
+      <marc:subfield code="b">Prentice-Hall</marc:subfield>
+      <marc:subfield code="c">1971</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">x, 181 pages</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediaed</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">A Spectrum book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Letter from Birmingham City Jail, by M. L. King, Jr.--The justification of civil disobedience, by J. Rawls.--Ethics and revolution, by H. Marcuse.--On violence, by R. P. Wolff.--Is law dead? by G. Gottlieb.--Civil disobedience and public policy, by V. Held.--The obligation to disobey, by M. Walzer.--Political change through civil disobedience in the USSR and Eastern Europe, by A. G. Meyer.--A priest in the resistance: an interview, by P. Berrigan.--Seize the time, by B. Seale.--Bibliography (p. 176-181)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Government, Resistance to</marc:subfield>
+      <marc:subfield code="z">United States.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Civil rights</marc:subfield>
+      <marc:subfield code="z">United States.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">nfi</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">SRI</marc:subfield>
+      <marc:subfield code="d">2018-10-22</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">301.63 REV</marc:subfield>
+      <marc:subfield code="p">1001852375</marc:subfield>
+      <marc:subfield code="r">2018-10-22 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-10-22</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+      <marc:subfield code="z">Tan Liok Ee Collections</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">296991</marc:subfield>
+      <marc:subfield code="d">296991</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

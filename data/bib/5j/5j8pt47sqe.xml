@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00563pam a2200181   4500</marc:leader>
+    <marc:controlfield tag="001">211220</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170404223522</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780762107339</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)211220</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">82</marc:subfield>
+      <marc:subfield code="b">TRE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Treasury of wit &amp; wisdom :</marc:subfield>
+      <marc:subfield code="b">4000 of the funniest,cleverest, most insightful things ever said /</marc:subfield>
+      <marc:subfield code="c">compiled by Jeff Bredenberg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Pleasantville :</marc:subfield>
+      <marc:subfield code="b">Readers Digest Association,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">304pages :</marc:subfield>
+      <marc:subfield code="b">colour illustrations,</marc:subfield>
+      <marc:subfield code="c">25cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Quotations</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Tan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-04</marc:subfield>
+      <marc:subfield code="l">15</marc:subfield>
+      <marc:subfield code="m">4</marc:subfield>
+      <marc:subfield code="o">082 TRE</marc:subfield>
+      <marc:subfield code="p">1001371117</marc:subfield>
+      <marc:subfield code="r">2026-10-02 15:07:53</marc:subfield>
+      <marc:subfield code="s">2026-05-23</marc:subfield>
+      <marc:subfield code="w">2017-04-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">168674</marc:subfield>
+      <marc:subfield code="d">168674</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00404nam a2200121Ia 4500</marc:leader>
+    <marc:controlfield tag="001">289006</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20180215001751</marc:controlfield>
+    <marc:controlfield tag="008">180214s9999    xx            000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)289006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">628.1684 TEC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">TECHNOLOGY, utilization and management of agricultural wastes /</marc:subfield>
+      <marc:subfield code="c">editors S.A. Salam and Abang Abdullah Abang Ali.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Selangor :</marc:subfield>
+      <marc:subfield code="b">Universiti Pertanian Malaysia.</marc:subfield>
+      <marc:subfield code="c">1982</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">New Cat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">SUK</marc:subfield>
+      <marc:subfield code="b">SUK</marc:subfield>
+      <marc:subfield code="c">SUK</marc:subfield>
+      <marc:subfield code="d">2018-02-15</marc:subfield>
+      <marc:subfield code="e">HADI - HADIAH</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">628.1684 TEC</marc:subfield>
+      <marc:subfield code="p">3000003549</marc:subfield>
+      <marc:subfield code="r">2018-02-15 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-02-15</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">289006</marc:subfield>
+      <marc:subfield code="d">289006</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

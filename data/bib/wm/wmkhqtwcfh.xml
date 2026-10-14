@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00751pam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">174221</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170520010227</marc:controlfield>
+    <marc:controlfield tag="008">100608s9999    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780838466858</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">838466850</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)174221</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">418.4</marc:subfield>
+      <marc:subfield code="b">AND</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Anderson, Neil</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Exploring second language reading :</marc:subfield>
+      <marc:subfield code="b">issues and strategies /</marc:subfield>
+      <marc:subfield code="c">Neil Anderson</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Boston, Massachusetts :</marc:subfield>
+      <marc:subfield code="b">Heinle Cengage Learning,</marc:subfield>
+      <marc:subfield code="c">1999</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xi,129p.,</marc:subfield>
+      <marc:subfield code="c">24cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1=" " ind2="4">
+      <marc:subfield code="a">The TeacherSource Series</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">U. S. Embassy collection(1001180058)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">A teacher source book</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">English as a second language</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="4">
+      <marc:subfield code="a">Reading</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">nor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">AC</marc:subfield>
+      <marc:subfield code="d">2017-05-20</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">418.4 AND</marc:subfield>
+      <marc:subfield code="p">1001180058</marc:subfield>
+      <marc:subfield code="r">2017-05-20 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-05-20</marc:subfield>
+      <marc:subfield code="y">BOK_AC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">224806</marc:subfield>
+      <marc:subfield code="d">224806</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

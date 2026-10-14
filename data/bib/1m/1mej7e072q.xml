@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01099aam a2200325 i 4500</marc:leader>
+    <marc:controlfield tag="001">333321</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20230509164816</marc:controlfield>
+    <marc:controlfield tag="008">210428t20212010my ao  e      001 0 may</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789674608712</marc:subfield>
+      <marc:subfield code="q">paperback</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)333321</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">BNM</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">BNM</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">330</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">330</marc:subfield>
+      <marc:subfield code="b">HOL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hollander, Barbara Gottried</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">72284</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Segalanya Wang :</marc:subfield>
+      <marc:subfield code="b">Pengenalan Kepada Ekonomi /</marc:subfield>
+      <marc:subfield code="c">Barbara Gottried Hollander ; Penterjemah Nur Ain Hafiza Mat Jusoh</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="246" ind1="3" ind2="3">
+      <marc:subfield code="i">Translation of:</marc:subfield>
+      <marc:subfield code="a">Money matters :</marc:subfield>
+      <marc:subfield code="b">An introduction to economics</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">INSTITUT TERJEMAHAN &amp; BUKU MALAYSIA BERHAD,</marc:subfield>
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="4">
+      <marc:subfield code="c">&amp;#xA9;2010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">53 pages :</marc:subfield>
+      <marc:subfield code="b">colour photographs ;</marc:subfield>
+      <marc:subfield code="c">24 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography: page 52</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Economics</marc:subfield>
+      <marc:subfield code="9">3365</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Finance</marc:subfield>
+      <marc:subfield code="9">16469</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Finance, Personal</marc:subfield>
+      <marc:subfield code="9">5429</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Nur Ain Hafiza Mat Jusoh,</marc:subfield>
+      <marc:subfield code="e">translator.</marc:subfield>
+      <marc:subfield code="9">72260</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">liza</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">333321</marc:subfield>
+      <marc:subfield code="d">333321</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

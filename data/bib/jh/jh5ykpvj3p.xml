@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01344nam a2200349   4500</marc:leader>
+    <marc:controlfield tag="001">vtls000319063</marc:controlfield>
+    <marc:controlfield tag="003">PIPP</marc:controlfield>
+    <marc:controlfield tag="005">20180213151622</marc:controlfield>
+    <marc:controlfield tag="008">180213s1984    ai            00    eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">0867464194 (pbk.):</marc:subfield>
+      <marc:subfield code="c">RM67.83</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000319063</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PIPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PIPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">959.82004951</marc:subfield>
+      <marc:subfield code="b">GRA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Graaf, H. J. de</marc:subfield>
+      <marc:subfield code="q">(Hermanus Johannes de),</marc:subfield>
+      <marc:subfield code="d">1899-</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Chinese Muslims in Java in the 15th and 16th centuries :</marc:subfield>
+      <marc:subfield code="b">the Malay Annals of Semarang and Cerbon /</marc:subfield>
+      <marc:subfield code="c">translated and provided with comments by H.J. de Graaf and Th. G. Th. Pigeaud ; edited by M.C. Ricklefs</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[Melbourne] :</marc:subfield>
+      <marc:subfield code="b">Monash University,</marc:subfield>
+      <marc:subfield code="c">1984</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1="0" ind2="0">
+      <marc:subfield code="a">xiii, 221 pages,</marc:subfield>
+      <marc:subfield code="b">folded map  ;</marc:subfield>
+      <marc:subfield code="c">21 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="440" ind1=" " ind2="0">
+      <marc:subfield code="x">0727-6680</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1=" " ind2=" ">
+      <marc:subfield code="a">Monash papers on Southeast Asia : No. 12</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes text of the Sejarah Melayu in Indonesian with English translation</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PI Collection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Bibliography: p. 192-198</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">History</marc:subfield>
+      <marc:subfield code="x">Muslims</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Chinese</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="z">Indonesia</marc:subfield>
+      <marc:subfield code="z">Java</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="0">
+      <marc:subfield code="a">Java (Indonesia)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Pigeaud, Theodore G. Th.</marc:subfield>
+      <marc:subfield code="q">(Theodore Gauthier Thomas),</marc:subfield>
+      <marc:subfield code="d">1899-</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ricklefs, M.C.</marc:subfield>
+      <marc:subfield code="q">(Merle Calvin),</marc:subfield>
+      <marc:subfield code="d">1943-</marc:subfield>
+      <marc:subfield code="e">editor</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">cpl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PIRC</marc:subfield>
+      <marc:subfield code="b">PIRC</marc:subfield>
+      <marc:subfield code="c">RSR</marc:subfield>
+      <marc:subfield code="d">2018-02-13</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">R 959.82004951 GRA</marc:subfield>
+      <marc:subfield code="p">1001787212</marc:subfield>
+      <marc:subfield code="r">2018-02-13 00:00:00</marc:subfield>
+      <marc:subfield code="w">2018-02-13</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">288706</marc:subfield>
+      <marc:subfield code="d">288706</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00783nam a2200253 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000610995</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200217142022</marc:controlfield>
+    <marc:controlfield tag="008">100508q2003    my a   e      000 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000610995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">TYT 378.595119 SED</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">378.595119</marc:subfield>
+      <marc:subfield code="b">SED</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="2" ind2=" ">
+      <marc:subfield code="a">Kolej Universiti Teknologi Tun Hussein Onn</marc:subfield>
+      <marc:subfield code="9">21400</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Sedekad meredah gelombang, mengukir keunggulan</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Batu pahat, Johor :</marc:subfield>
+      <marc:subfield code="b">Kolej Universiti Teknologi Tun Hussein Onn,</marc:subfield>
+      <marc:subfield code="c">[2003]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">125p. :</marc:subfield>
+      <marc:subfield code="b">il. wrn. ;</marc:subfield>
+      <marc:subfield code="c">29cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2=" ">
+      <marc:subfield code="a">Kolej Universiti Teknologi Tun Hussein Onn</marc:subfield>
+      <marc:subfield code="9">21400</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2020-02-17</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 378.595119 SED</marc:subfield>
+      <marc:subfield code="p">2000001296</marc:subfield>
+      <marc:subfield code="r">2020-06-05 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-02-17</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">309661</marc:subfield>
+      <marc:subfield code="d">309661</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

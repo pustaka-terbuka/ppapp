@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00972nam a2200301 a 4500</marc:leader>
+    <marc:controlfield tag="001">vtls000706112</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20191227095318</marc:controlfield>
+    <marc:controlfield tag="008">130314s2012    my a   g |    000 0 eng</marc:controlfield>
+    <marc:datafield tag="015" ind1=" " ind2=" ">
+      <marc:subfield code="a">M13-03144</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789671103104</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000706112</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">mal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">TYT 373.0609595113 FID</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT 373.0609595113 FID</marc:subfield>
+      <marc:subfield code="b">FID</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Fidelis : the commerative book of The Old Free&apos; Association /</marc:subfield>
+      <marc:subfield code="c">co-editors: Quah Seng Sun [and] Molly Ooi Siew Choo</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Penang :</marc:subfield>
+      <marc:subfield code="b">The Old Frees Association,</marc:subfield>
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">201p. :</marc:subfield>
+      <marc:subfield code="b">col. ill. ;</marc:subfield>
+      <marc:subfield code="c">21cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Penang Free School</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="9">18435</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="610" ind1="2" ind2="0">
+      <marc:subfield code="a">Old Frees&apos; Association</marc:subfield>
+      <marc:subfield code="x">History</marc:subfield>
+      <marc:subfield code="9">18436</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Societies</marc:subfield>
+      <marc:subfield code="x">history, organization, etc.</marc:subfield>
+      <marc:subfield code="9">18437</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Quah, Seng Sun</marc:subfield>
+      <marc:subfield code="9">1769</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ooi, Molly Siew Choo</marc:subfield>
+      <marc:subfield code="9">18438</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Old Frees&apos; Association</marc:subfield>
+      <marc:subfield code="9">18439</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2019-12-27</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 373.0609595113 FID</marc:subfield>
+      <marc:subfield code="p">2000000781</marc:subfield>
+      <marc:subfield code="r">2020-01-07 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-12-27</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">307765</marc:subfield>
+      <marc:subfield code="d">307765</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

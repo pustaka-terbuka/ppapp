@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00821nab a2200229   4500</marc:leader>
+    <marc:controlfield tag="001">309539</marc:controlfield>
+    <marc:controlfield tag="005">20251215164434</marc:controlfield>
+    <marc:controlfield tag="008">2020  m2020    my  n ne      0    1Eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)309539</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">Eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">DEV/2020/01 (05)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Riadz Akmal</marc:subfield>
+      <marc:subfield code="9">21118</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="1" ind2=" ">
+      <marc:subfield code="a">Buletin Mutiara</marc:subfield>
+      <marc:subfield code="9">20998</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Penang New Core City in the pipeline</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">Good Condition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">DEV/2020/01 (05) - Penang2030 / Chief  Minister Chow Kon Yeow / The Penang New Core City/ Think City</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2=" ">
+      <marc:subfield code="2">Development</marc:subfield>
+      <marc:subfield code="a">Penang</marc:subfield>
+      <marc:subfield code="9">11421</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Noor Siti Nabilah Noorazis</marc:subfield>
+      <marc:subfield code="9">21026</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1=" " ind2=" ">
+      <marc:subfield code="g">Buletin Mutiara (News) / 01012020 - 31012020 / 16</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2=" ">
+      <marc:subfield code="u">http://opac.penanglib.gov.my/cgi-bin/koha/opac-retrieve-file.pl?id=dd3fe80902c6633f83467294835675cf</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">PCT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">DEV/2020/01 (05)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">AFR</marc:subfield>
+      <marc:subfield code="d">2020-01-31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">DEV/2020/01 (05)</marc:subfield>
+      <marc:subfield code="r">2020-02-11 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-02-11</marc:subfield>
+      <marc:subfield code="y">PCT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">309539</marc:subfield>
+      <marc:subfield code="d">309539</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01070nam a22002537a 4500</marc:leader>
+    <marc:controlfield tag="001">308404</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200108160154</marc:controlfield>
+    <marc:controlfield tag="008">200108b           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781602200111</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)308404</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">TYT 779.320951 XIZ</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="1" ind2="0">
+      <marc:subfield code="a">TYT 779.320951 XIZ</marc:subfield>
+      <marc:subfield code="b">XIZ</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Xi, Zhinong,</marc:subfield>
+      <marc:subfield code="d">1964-</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">19090</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Wildlife wonders of China : a pictorial journey through the lens of conservationalist Xi Zhinong /</marc:subfield>
+      <marc:subfield code="c">Xi Zhinong</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Better Link,</marc:subfield>
+      <marc:subfield code="c">2013</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">192 p. :</marc:subfield>
+      <marc:subfield code="b">ill. ;</marc:subfield>
+      <marc:subfield code="c">22 x 29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Contains index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">China is a country rich in bio diversity that boasts gorgeous natural landscapes and wildlife many unique to its land. Award winning nature photographer Xi Zhinong spent 30 years taking photos along rivers and across mountains capturing the animals and natural wonders of China.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2=" ">
+      <marc:subfield code="a">Animals</marc:subfield>
+      <marc:subfield code="x">Pictorial works</marc:subfield>
+      <marc:subfield code="z">China</marc:subfield>
+      <marc:subfield code="9">19091</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2=" ">
+      <marc:subfield code="a">Wildlife photography</marc:subfield>
+      <marc:subfield code="z">China</marc:subfield>
+      <marc:subfield code="9">19092</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2020-01-08</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 779.320951 XIZ</marc:subfield>
+      <marc:subfield code="p">2000000856</marc:subfield>
+      <marc:subfield code="r">2020-02-05 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-01-08</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">308404</marc:subfield>
+      <marc:subfield code="d">308404</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

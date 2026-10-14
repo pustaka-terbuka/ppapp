@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00876nrc a2200265 i 4500</marc:leader>
+    <marc:controlfield tag="001">327245</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20221014173230</marc:controlfield>
+    <marc:controlfield tag="008">221014b2022    my ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)327245</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="2">23</marc:subfield>
+      <marc:subfield code="a">TYT 688.1 CHI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT 688.1</marc:subfield>
+      <marc:subfield code="b">CHI</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="2" ind2=" ">
+      <marc:subfield code="a">CHINA AIRLINES</marc:subfield>
+      <marc:subfield code="e">Issuing body</marc:subfield>
+      <marc:subfield code="9">58725</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Airplane Model B737-800 /</marc:subfield>
+      <marc:subfield code="c">CHINA AIRLINES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[Place publication not identified]:</marc:subfield>
+      <marc:subfield code="b">CHINA AIRLINES,</marc:subfield>
+      <marc:subfield code="c">[date not identified]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 model airplane with stand :</marc:subfield>
+      <marc:subfield code="b">Plastic stand ;</marc:subfield>
+      <marc:subfield code="c">H 29 cm x W 28 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">three dimensional artifact</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">miniature</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cenderahati TYT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Model and miniature</marc:subfield>
+      <marc:subfield code="x">Airplane</marc:subfield>
+      <marc:subfield code="9">58719</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Airplane</marc:subfield>
+      <marc:subfield code="x">Miniature</marc:subfield>
+      <marc:subfield code="9">58726</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">TAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Basirah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">327245</marc:subfield>
+      <marc:subfield code="d">327245</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

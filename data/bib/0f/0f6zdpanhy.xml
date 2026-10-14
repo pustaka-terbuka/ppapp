@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00789nam a22002657a 4500</marc:leader>
+    <marc:controlfield tag="001">310773</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200715122131</marc:controlfield>
+    <marc:controlfield tag="008">200715b           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)310773</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">KK 912.0148 RAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2="1">
+      <marc:subfield code="a">912.0148</marc:subfield>
+      <marc:subfield code="b">RAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2="0">
+      <marc:subfield code="a">Rabl, Samuel Supplee,</marc:subfield>
+      <marc:subfield code="d">1895-</marc:subfield>
+      <marc:subfield code="e">author</marc:subfield>
+      <marc:subfield code="9">24067</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">THE STAR ATLAS AND NAVIGATION ENCYCLOPEDIA /</marc:subfield>
+      <marc:subfield code="c">Samuel Supplee Rabl</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Cornell Maritime Press,</marc:subfield>
+      <marc:subfield code="c">1946</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">161 p.,</marc:subfield>
+      <marc:subfield code="b">illus., maps ;</marc:subfield>
+      <marc:subfield code="c">28 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rda content</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">umediated</marc:subfield>
+      <marc:subfield code="a">rda media</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rda carrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Nautical astronomy</marc:subfield>
+      <marc:subfield code="9">24068</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Stars</marc:subfield>
+      <marc:subfield code="x">Atlases</marc:subfield>
+      <marc:subfield code="9">24069</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Navigation</marc:subfield>
+      <marc:subfield code="9">24070</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">4</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">BPPK</marc:subfield>
+      <marc:subfield code="c">IKK</marc:subfield>
+      <marc:subfield code="d">2020-07-15</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KK 912.0148 RAB</marc:subfield>
+      <marc:subfield code="p">1002012943</marc:subfield>
+      <marc:subfield code="r">2020-07-15 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-07-15</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">310773</marc:subfield>
+      <marc:subfield code="d">310773</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

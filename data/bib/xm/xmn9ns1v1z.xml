@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00979nam a2200253 i 4500</marc:leader>
+    <marc:controlfield tag="001">324272</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20220520105533</marc:controlfield>
+    <marc:controlfield tag="008">220518b2021    my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">NIL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)324272</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">KPP 328.595113 PUL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">KPP 328.595113</marc:subfield>
+      <marc:subfield code="b">PUL</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">PULAU PINANG: PENYATA RASMI MESYUARAT PERTAMA PENGGAL PERSIDANGAN KEEMPAT DEWAN UNDANGAN NEGERI YANG KEEMPAT BELAS = BUKU 4 :</marc:subfield>
+      <marc:subfield code="b">SOALAN BERTULIS DAN JAWAPAN 30 OGOS - 2 SEPTEMBER 2021 /</marc:subfield>
+      <marc:subfield code="c">Dikeluarkan oleh BAHAGIAN DEWAN UNDANGAN NEGERI PULAU PINANG</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Pulau Pinang:</marc:subfield>
+      <marc:subfield code="b">Dewan Undangan Negeri Pulau Pinang,</marc:subfield>
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">913-1237 pages :</marc:subfield>
+      <marc:subfield code="b">charts ;</marc:subfield>
+      <marc:subfield code="c">29 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Politics and goverment</marc:subfield>
+      <marc:subfield code="z">Penang</marc:subfield>
+      <marc:subfield code="9">51633</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Bahagian Dewan Undangan Negeri Pulau Pinang</marc:subfield>
+      <marc:subfield code="e">publisher.</marc:subfield>
+      <marc:subfield code="9">51689</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Rohana</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">KPP</marc:subfield>
+      <marc:subfield code="d">2022-05-18</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KPP 328.595113 PUL</marc:subfield>
+      <marc:subfield code="p">2022-26181</marc:subfield>
+      <marc:subfield code="r">2022-05-20 00:00:00</marc:subfield>
+      <marc:subfield code="w">2022-05-18</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">324272</marc:subfield>
+      <marc:subfield code="d">324272</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

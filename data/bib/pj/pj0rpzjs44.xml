@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00707nam a22002417a 4500</marc:leader>
+    <marc:controlfield tag="001">309483</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20200210161935</marc:controlfield>
+    <marc:controlfield tag="008">200210b           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789831312995</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)309483</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">jaw</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">TYT 297.122 IQR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">297.122</marc:subfield>
+      <marc:subfield code="b">IQR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">IQRA : CARA CEPAT BELAJAR MEMBACA AL-QURAN 2 /</marc:subfield>
+      <marc:subfield code="c">arranged by As&apos;ad Humam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Darulfikir,</marc:subfield>
+      <marc:subfield code="c">2009</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">30 p. :</marc:subfield>
+      <marc:subfield code="c">20 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">In jawi script.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">al-Qur&apos;an</marc:subfield>
+      <marc:subfield code="x">Study and teaching (Elementary).</marc:subfield>
+      <marc:subfield code="9">21073</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">al-Qur&apos;an</marc:subfield>
+      <marc:subfield code="x">Readings.</marc:subfield>
+      <marc:subfield code="9">21074</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2="0">
+      <marc:subfield code="a">As&apos;ad Humam</marc:subfield>
+      <marc:subfield code="c">Ustaz Haji</marc:subfield>
+      <marc:subfield code="9">21075</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2020-02-10</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 297.122 IQR</marc:subfield>
+      <marc:subfield code="p">2000001243</marc:subfield>
+      <marc:subfield code="r">2020-06-05 00:00:00</marc:subfield>
+      <marc:subfield code="w">2020-02-10</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">309483</marc:subfield>
+      <marc:subfield code="d">309483</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

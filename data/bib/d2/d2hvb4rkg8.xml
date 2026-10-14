@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00403nam a22001457a 4500</marc:leader>
+    <marc:controlfield tag="001">294268</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20180717162125</marc:controlfield>
+    <marc:controlfield tag="008">180717s2018       ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)294268</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="d">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">Mega block</marc:subfield>
+      <marc:subfield code="b">first builders</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Canada</marc:subfield>
+      <marc:subfield code="b">Mega Brands Inc</marc:subfield>
+      <marc:subfield code="c">[date of publication not identified]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 set</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">160 pieces bloks</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">GAMES</marc:subfield>
+      <marc:subfield code="n">z</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">294268</marc:subfield>
+      <marc:subfield code="d">294268</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

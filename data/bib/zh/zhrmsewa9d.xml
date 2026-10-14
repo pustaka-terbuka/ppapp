@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01015nam a2200325 i 4500</marc:leader>
+    <marc:controlfield tag="001">338562</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20231228145934</marc:controlfield>
+    <marc:controlfield tag="008">231227t2023    my ao  e      000 0 may</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789670696904</marc:subfield>
+      <marc:subfield code="q">paperback</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)338562</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PNM</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PNM</marc:subfield>
+      <marc:subfield code="d">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">600 ABU</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">600</marc:subfield>
+      <marc:subfield code="b">ABU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Abu Adam,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">86126</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Dunia Pengaturcaraan Komputer /</marc:subfield>
+      <marc:subfield code="c">Abu Adam</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Bukit Jalil, Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">PUSTAKA HAKIMIN,</marc:subfield>
+      <marc:subfield code="c">2023</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">48 pages :</marc:subfield>
+      <marc:subfield code="b">colour photographs ;</marc:subfield>
+      <marc:subfield code="c">26 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">still image</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="1" ind2=" ">
+      <marc:subfield code="a">SIRI LITERASI TEKNOLOGI  MAKLUMAT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Technological literacy</marc:subfield>
+      <marc:subfield code="9">80974</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Information technology</marc:subfield>
+      <marc:subfield code="9">1509</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Computer literacy</marc:subfield>
+      <marc:subfield code="9">4115</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Computer programming</marc:subfield>
+      <marc:subfield code="9">27734</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="830" ind1=" " ind2="0">
+      <marc:subfield code="a">SIRI LITERASI TEKNOLOGI  MAKLUMAT</marc:subfield>
+      <marc:subfield code="9">80975</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">yuges</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78739</marc:subfield>
+      <marc:subfield code="r">2024-01-30 10:30:46</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78740</marc:subfield>
+      <marc:subfield code="r">2024-03-14 09:53:09</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78741</marc:subfield>
+      <marc:subfield code="r">2024-03-07 14:03:01</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BP</marc:subfield>
+      <marc:subfield code="b">BP</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78742</marc:subfield>
+      <marc:subfield code="r">2024-03-21 13:15:47</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BM</marc:subfield>
+      <marc:subfield code="b">BM</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78743</marc:subfield>
+      <marc:subfield code="r">2024-02-24 13:33:55</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">JW</marc:subfield>
+      <marc:subfield code="b">JW</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78744</marc:subfield>
+      <marc:subfield code="r">2024-05-16 12:07:29</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PPSA</marc:subfield>
+      <marc:subfield code="b">PPSA</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78745</marc:subfield>
+      <marc:subfield code="r">2024-03-09 16:26:18</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BA</marc:subfield>
+      <marc:subfield code="b">BA</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78746</marc:subfield>
+      <marc:subfield code="r">2024-03-03 12:15:41</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PPTG</marc:subfield>
+      <marc:subfield code="b">PPTG</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2023-12-27</marc:subfield>
+      <marc:subfield code="e">MAYE/85/23</marc:subfield>
+      <marc:subfield code="g">39.83</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">600 ABU</marc:subfield>
+      <marc:subfield code="p">2023-78747</marc:subfield>
+      <marc:subfield code="r">2024-03-01 15:08:39</marc:subfield>
+      <marc:subfield code="v">39.83</marc:subfield>
+      <marc:subfield code="w">2023-12-27</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">338562</marc:subfield>
+      <marc:subfield code="d">338562</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

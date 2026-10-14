@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01007nrc a2200253 i 4500</marc:leader>
+    <marc:controlfield tag="001">327116</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20221013124045</marc:controlfield>
+    <marc:controlfield tag="008">221012b2022    my ||||| |||| 00| 0 m   d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)327116</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="2">23</marc:subfield>
+      <marc:subfield code="a">TYT 353.48409595113 JAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT  353.48409595113</marc:subfield>
+      <marc:subfield code="b">JAB</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="110" ind1="2" ind2=" ">
+      <marc:subfield code="a">Jabatan Imigresen Malaysia Negeri Pulau Pinang</marc:subfield>
+      <marc:subfield code="e">issuing body</marc:subfield>
+      <marc:subfield code="9">58601</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Cenderahati Ikhlas Daripada:</marc:subfield>
+      <marc:subfield code="b">Jabatan Imigresen Malaysia Negeri Pulau Pinang 19hb Februari 2014 / Rabiulakhir 1435H /</marc:subfield>
+      <marc:subfield code="c">Jabatan Imigresen Malaysia Negeri Pulau Pinang</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Pulau Pinang:</marc:subfield>
+      <marc:subfield code="b">Jabatan Imigresen Malaysia Negeri Pulau Pinang,</marc:subfield>
+      <marc:subfield code="c">2014</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 passport in frame:</marc:subfield>
+      <marc:subfield code="b">colour photo, wooden frame with gold colour;</marc:subfield>
+      <marc:subfield code="c">height 57 cm x width 40 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">three dimensional artifact</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">frame</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Cenderahati TYT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Present</marc:subfield>
+      <marc:subfield code="v">Passport</marc:subfield>
+      <marc:subfield code="x">Gift</marc:subfield>
+      <marc:subfield code="9">58576</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">TAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Basirah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">327116</marc:subfield>
+      <marc:subfield code="d">327116</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

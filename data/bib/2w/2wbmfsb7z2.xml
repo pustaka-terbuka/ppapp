@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>02422cam a2200313 i 4500</marc:leader>
+    <marc:controlfield tag="001">298199</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20181207172158</marc:controlfield>
+    <marc:controlfield tag="008">1812  s2016    nyua          001 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780062249364</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)298199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">616.12 FUH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">616.12</marc:subfield>
+      <marc:subfield code="b">FUH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Fuhrman, Joel,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">197</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="4">
+      <marc:subfield code="a">THE END OF HEART DISEASE :</marc:subfield>
+      <marc:subfield code="b">The Eat to Live Plan to Prevent and Reverse Heart Disease /</marc:subfield>
+      <marc:subfield code="c">Joel Fuhrman, M.D.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First edition.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">New York, NY :</marc:subfield>
+      <marc:subfield code="b">HarperOne,</marc:subfield>
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">430 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations ;</marc:subfield>
+      <marc:subfield code="c">24 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;The New York Times bestselling author of Eat to Live, Super Immunity, The End of Diabetes, and The End of Dieting presents a scientifically proven, practical program to prevent and reverse heart disease, the leading cause of death in America--coinciding with the author&apos;s new medical study revealing headline-making findings.Dr. Joel Fuhrman, one of the country&apos;s leading experts on preventative medicine, offers his science-backed nutritional plan that addresses the leading cause of death in America: heart disease. An expert in the science of food, Dr. Fuhrman speaks directly to readers who want to take control of their health and avoid taking medication or undergoing complicated, expensive surgery, the two standard treatments prescribed today.Following the model of his previous programs that have successfully tackled conditions from diabetes to dieting, Dr. Fuhrman&apos;s plan begins with the food we eat. He focuses on a high nutrient per calorie ratio, with a range of options for different needs and conditions. He shows us what to remove and what to add to our diets for optimum heart health, provides menu plans and recipes for heart-healthy meals and snacks, and includes helpful questions for doctors and patients.By understanding heart disease and its triggers, Dr. Fuhrman gives us the knowledge to counter-attack this widespread epidemic and lead longer, healthier lives&quot;--</marc:subfield>
+      <marc:subfield code="c">Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Heart</marc:subfield>
+      <marc:subfield code="x">Diseases</marc:subfield>
+      <marc:subfield code="x">Prevention</marc:subfield>
+      <marc:subfield code="v">Popular works.</marc:subfield>
+      <marc:subfield code="9">198</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Heart</marc:subfield>
+      <marc:subfield code="x">Diseases</marc:subfield>
+      <marc:subfield code="x">Diet therapy</marc:subfield>
+      <marc:subfield code="v">Popular works.</marc:subfield>
+      <marc:subfield code="9">199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Heart</marc:subfield>
+      <marc:subfield code="x">Diseases</marc:subfield>
+      <marc:subfield code="x">Nutritional aspects</marc:subfield>
+      <marc:subfield code="v">Popular works.</marc:subfield>
+      <marc:subfield code="9">200</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">fm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2018-12-07</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">7</marc:subfield>
+      <marc:subfield code="m">4</marc:subfield>
+      <marc:subfield code="o">616.12 FUH</marc:subfield>
+      <marc:subfield code="p">1001776965</marc:subfield>
+      <marc:subfield code="r">2020-01-30 00:00:00</marc:subfield>
+      <marc:subfield code="s">2020-01-02</marc:subfield>
+      <marc:subfield code="w">2018-12-07</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2018-12-07</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">13</marc:subfield>
+      <marc:subfield code="m">9</marc:subfield>
+      <marc:subfield code="o">616.12 FUH</marc:subfield>
+      <marc:subfield code="p">1001776966</marc:subfield>
+      <marc:subfield code="r">2026-10-01 16:20:37</marc:subfield>
+      <marc:subfield code="s">2026-09-03</marc:subfield>
+      <marc:subfield code="w">2018-12-07</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">298199</marc:subfield>
+      <marc:subfield code="d">298199</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

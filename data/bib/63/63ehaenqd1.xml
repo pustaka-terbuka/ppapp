@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00838nam a22002777a 4500</marc:leader>
+    <marc:controlfield tag="001">305265</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20190925121637</marc:controlfield>
+    <marc:controlfield tag="008">190925b           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781846043727</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)305265</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">959.105 POP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">959.105 POP</marc:subfield>
+      <marc:subfield code="b">POP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1=" " ind2=" ">
+      <marc:subfield code="a">Popham, Peter</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">12795</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">The lady and the generals : Aung San Suu Kyi and Burma&apos;s struggle for freedom /</marc:subfield>
+      <marc:subfield code="c">Peter Popham</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="1" ind2="0">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">Rider Books,</marc:subfield>
+      <marc:subfield code="c">2016</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">440 p.</marc:subfield>
+      <marc:subfield code="c">23 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">text</marc:subfield>
+      <marc:subfield code="a">rda content</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rda media</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">volume</marc:subfield>
+      <marc:subfield code="a">rda carrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1=" " ind2=" ">
+      <marc:subfield code="a">Aung San Suu Kyi.</marc:subfield>
+      <marc:subfield code="9">12796</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2=" ">
+      <marc:subfield code="a">Politics and government.</marc:subfield>
+      <marc:subfield code="9">12797</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2=" ">
+      <marc:subfield code="a">Burma</marc:subfield>
+      <marc:subfield code="x">Politics and government.</marc:subfield>
+      <marc:subfield code="9">12798</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2019-10-08</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 959.105 POP</marc:subfield>
+      <marc:subfield code="p">2000000081</marc:subfield>
+      <marc:subfield code="r">2020-01-18 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-10-08</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">305265</marc:subfield>
+      <marc:subfield code="d">305265</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

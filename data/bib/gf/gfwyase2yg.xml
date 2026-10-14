@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00829nkc a2200229 i 4500</marc:leader>
+    <marc:controlfield tag="001">324898</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20220727164748</marc:controlfield>
+    <marc:controlfield tag="008">220715b2022    my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)324898</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="2">23</marc:subfield>
+      <marc:subfield code="a">TYT 770 FRA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT 770</marc:subfield>
+      <marc:subfield code="b">FRA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Frame Photo:TUAN YANG TERUTAMA  TUN DATO&apos; SERI UTAMA (DR.) HAJI ABDUL RAHMAN BIN HAJI ABBAS YANG DI-PERTUA NEGERI PULAU PINANG Berpakaian Lengkap Istiadat</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">[Place of Publisher not Identified]</marc:subfield>
+      <marc:subfield code="b">[Publisher not Identified]</marc:subfield>
+      <marc:subfield code="c">[Date of Publication not Identified]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">Frame photo :</marc:subfield>
+      <marc:subfield code="c">66cm x 55cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacontent</marc:subfield>
+      <marc:subfield code="a">two dimensional non projectable graphic</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdamedia</marc:subfield>
+      <marc:subfield code="a">unmediated</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+      <marc:subfield code="a">frame</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Potrait</marc:subfield>
+      <marc:subfield code="9">53493</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">PHO</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Basirah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">324898</marc:subfield>
+      <marc:subfield code="d">324898</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

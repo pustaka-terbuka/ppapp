@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01180pam a2200253   4500</marc:leader>
+    <marc:controlfield tag="001">206109</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20220329094944</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">333926986</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)206109</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">620.11223</marc:subfield>
+      <marc:subfield code="b">INT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">International Conference on Biodeterioration of Cultural Property (1989: National Research Laboratory for Conservation of Cultural Property)</marc:subfield>
+      <marc:subfield code="9">50545</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Biodeterioration of cultural property: proceedings of the International Conference on Biodeterioration of Cultural Property, February 20-25, 1989, held at National Research Laboratory for Conservation of Cultural Property, in collaboration with ICCROM and INTACH :</marc:subfield>
+      <marc:subfield code="c">O.P. Agrawal, Shashi Dhawan, Editors</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1="1" ind2=" ">
+      <marc:subfield code="a">Delhi :</marc:subfield>
+      <marc:subfield code="b">Macmillan India,</marc:subfield>
+      <marc:subfield code="c">1991</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xiv, 493p. :</marc:subfield>
+      <marc:subfield code="b">ill., plans,</marc:subfield>
+      <marc:subfield code="c">23cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Deterioration</marc:subfield>
+      <marc:subfield code="x">Cultural property</marc:subfield>
+      <marc:subfield code="9">50546</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Art objects</marc:subfield>
+      <marc:subfield code="x">Conservation</marc:subfield>
+      <marc:subfield code="y">Congresses</marc:subfield>
+      <marc:subfield code="9">50547</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">Biodegradation</marc:subfield>
+      <marc:subfield code="x">Congresses</marc:subfield>
+      <marc:subfield code="9">50548</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Cultural property</marc:subfield>
+      <marc:subfield code="x">Protection</marc:subfield>
+      <marc:subfield code="y">Congresses</marc:subfield>
+      <marc:subfield code="9">50549</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2="2">
+      <marc:subfield code="a">Agrawal, Om Prakash</marc:subfield>
+      <marc:subfield code="9">50550</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2="2">
+      <marc:subfield code="a">Dhawan, Sashi</marc:subfield>
+      <marc:subfield code="9">50551</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">WHI</marc:subfield>
+      <marc:subfield code="b">WHI</marc:subfield>
+      <marc:subfield code="c">RWH</marc:subfield>
+      <marc:subfield code="d">2017-04-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">R 620.11223 INT</marc:subfield>
+      <marc:subfield code="p">1001317984</marc:subfield>
+      <marc:subfield code="r">2017-04-04 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-04</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">163789</marc:subfield>
+      <marc:subfield code="d">163789</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

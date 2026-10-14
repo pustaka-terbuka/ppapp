@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00555pab a2200169   4500</marc:leader>
+    <marc:controlfield tag="001">46628</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20171016230950</marc:controlfield>
+    <marc:controlfield tag="008">161230c20169999CNT           0    0MAY d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)46628</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TRA/14/1(87)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Locals should wield the wok, says CM :</marc:subfield>
+      <marc:subfield code="b">Lim: Don&apos;t let foreigners cook since licence holders must be Malaysians /</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">Good condition</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Hawkers</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="773" ind1="0" ind2=" ">
+      <marc:subfield code="t">The Star (Nation) /17072014 /18</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="0">
+      <marc:subfield code="u">http://artikel.penanglib.gov.my/digitize/locals_should_wield_the_wok_says_cm.jpg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">PCT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">246818</marc:subfield>
+      <marc:subfield code="d">246818</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

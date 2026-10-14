@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00815pam a2200241   4500</marc:leader>
+    <marc:controlfield tag="001">209249</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170404222253</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781843837107</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)209249</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">363.69</marc:subfield>
+      <marc:subfield code="b">SAF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Safeguarding intangible cultural heritage :</marc:subfield>
+      <marc:subfield code="b">edited by Michelle L. Stefano, Peter Davis and Gerard Corsane</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Woodbridge :</marc:subfield>
+      <marc:subfield code="b">Boydell,</marc:subfield>
+      <marc:subfield code="c">2012</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">viii, 275p. :</marc:subfield>
+      <marc:subfield code="b">ill., map, ports,</marc:subfield>
+      <marc:subfield code="c">25cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="490" ind1="0" ind2=" ">
+      <marc:subfield code="a">Heritage matters</marc:subfield>
+      <marc:subfield code="x">v.8</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">At head of cover title: The International Centre for Cultural &amp; Heritage Studies, Newcastle University</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Cultural property</marc:subfield>
+      <marc:subfield code="x">Protection</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Cultural property</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2="2">
+      <marc:subfield code="a">Stefano, Michelle L.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2="2">
+      <marc:subfield code="a">Davis, Peter</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2="2">
+      <marc:subfield code="a">Corsane, Gerard</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">WHI</marc:subfield>
+      <marc:subfield code="b">WHI</marc:subfield>
+      <marc:subfield code="c">RWH</marc:subfield>
+      <marc:subfield code="d">2017-04-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">363.69 SAF</marc:subfield>
+      <marc:subfield code="p">1001318013</marc:subfield>
+      <marc:subfield code="r">2017-04-04 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">166802</marc:subfield>
+      <marc:subfield code="d">166802</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

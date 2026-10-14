@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00554pam a2200181   4500</marc:leader>
+    <marc:controlfield tag="001">19385</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170523234609</marc:controlfield>
+    <marc:controlfield tag="008">00001019 19_?    cc            00    eng</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="c">Hadiah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">0046-13660</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)19385</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">27.5</marc:subfield>
+      <marc:subfield code="b">TAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">TAN, Bin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Zhongguo guojia tushuguan xunli :</marc:subfield>
+      <marc:subfield code="b">a visit to the National Library of China /</marc:subfield>
+      <marc:subfield code="c">Executive produce Tan Bin</marc:subfield>
+      <marc:subfield code="h">[Video tape recording]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">China :</marc:subfield>
+      <marc:subfield code="b">National Library Of China,</marc:subfield>
+      <marc:subfield code="c">19_?</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="0">
+      <marc:subfield code="a">National Library of China -</marc:subfield>
+      <marc:subfield code="z">China.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">MED</marc:subfield>
+      <marc:subfield code="d">2017-05-23</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">027.5 TAN</marc:subfield>
+      <marc:subfield code="p">1000104929</marc:subfield>
+      <marc:subfield code="r">2017-05-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-05-23</marc:subfield>
+      <marc:subfield code="y">CD</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">3</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">UNKNOWN</marc:subfield>
+      <marc:subfield code="d">2017-05-23</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">027.5 TAN</marc:subfield>
+      <marc:subfield code="p">1600015838</marc:subfield>
+      <marc:subfield code="r">2017-05-23 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-05-23</marc:subfield>
+      <marc:subfield code="y">MOS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">225879</marc:subfield>
+      <marc:subfield code="d">225879</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

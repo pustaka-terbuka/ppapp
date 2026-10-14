@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00729pam a2200229   4500</marc:leader>
+    <marc:controlfield tag="001">164191</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170408010707</marc:controlfield>
+    <marc:controlfield tag="008">170407s2008                  000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789812780010</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)164191</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">915.93</marc:subfield>
+      <marc:subfield code="b">CHE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Chen, Dabin</marc:subfield>
+      <marc:subfield code="d">1940-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Bangkok :</marc:subfield>
+      <marc:subfield code="b">gilt and glamour /</marc:subfield>
+      <marc:subfield code="c">[artist, Tan Ping ; editor, Serena Narain]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Singapore :</marc:subfield>
+      <marc:subfield code="b">Page One,</marc:subfield>
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 v. (unpaged) :</marc:subfield>
+      <marc:subfield code="b">chiefly col. ill.,</marc:subfield>
+      <marc:subfield code="c">16 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="600" ind1="1" ind2="4">
+      <marc:subfield code="a">Chen, Dabin</marc:subfield>
+      <marc:subfield code="y">1940</marc:subfield>
+      <marc:subfield code="x">Notebooks, sketchbooks, etc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="4">
+      <marc:subfield code="a">Bangkok (Thailand) In art</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="4">
+      <marc:subfield code="a">Bangkok (Thailand)</marc:subfield>
+      <marc:subfield code="x">Description and travel</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="651" ind1=" " ind2="4">
+      <marc:subfield code="a">Bangkok (Thailand)</marc:subfield>
+      <marc:subfield code="x">Social life and customs</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">hs</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">915.93 CHE</marc:subfield>
+      <marc:subfield code="p">1001169060</marc:subfield>
+      <marc:subfield code="r">2024-07-12 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2017-04-08</marc:subfield>
+      <marc:subfield code="l">8</marc:subfield>
+      <marc:subfield code="m">1</marc:subfield>
+      <marc:subfield code="o">915.93 CHE</marc:subfield>
+      <marc:subfield code="p">1001169061</marc:subfield>
+      <marc:subfield code="r">2022-12-10 00:00:00</marc:subfield>
+      <marc:subfield code="s">2022-11-12</marc:subfield>
+      <marc:subfield code="w">2017-04-08</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">210690</marc:subfield>
+      <marc:subfield code="d">210690</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

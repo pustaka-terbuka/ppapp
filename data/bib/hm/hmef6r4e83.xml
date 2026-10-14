@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00894pam a2200241   4500</marc:leader>
+    <marc:controlfield tag="001">203373</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170404082948</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">819041500X</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)203373</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">722.44</marc:subfield>
+      <marc:subfield code="b">MUT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="091" ind1="0" ind2="0">
+      <marc:subfield code="a">722.44 MUT</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">S. Muthiah, Meenakshi Meyappan</marc:subfield>
+      <marc:subfield code="j">Visalakshi Ramaswamy</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">The Chettiar heritage :</marc:subfield>
+      <marc:subfield code="b">S. Muthiah, Meenakshi Meyappan, Visalakshi Ramaswamy /</marc:subfield>
+      <marc:subfield code="c">Photographs, V.Muthuraman</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1="2" ind2=" ">
+      <marc:subfield code="a">Chennai, India :</marc:subfield>
+      <marc:subfield code="b">Chettiar Heritage,</marc:subfield>
+      <marc:subfield code="c">2006</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xii, 288p. :</marc:subfield>
+      <marc:subfield code="b">chiefly col. ill.,</marc:subfield>
+      <marc:subfield code="c">25x36cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (p.287) and index</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1="0" ind2=" ">
+      <marc:subfield code="a">Cultural heritage of Nattukottai Chettiars of Cettinatu, India.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Nattukottai Chettiars</marc:subfield>
+      <marc:subfield code="x">Pictorial works</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Cettinatu (India)</marc:subfield>
+      <marc:subfield code="x">Civilization</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Cettinatu (India)</marc:subfield>
+      <marc:subfield code="x">Pictorial works</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">WHI</marc:subfield>
+      <marc:subfield code="b">WHI</marc:subfield>
+      <marc:subfield code="c">RWH</marc:subfield>
+      <marc:subfield code="d">2017-04-04</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">722.44 MUT</marc:subfield>
+      <marc:subfield code="p">1001317917</marc:subfield>
+      <marc:subfield code="r">2017-04-04 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-04</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">161190</marc:subfield>
+      <marc:subfield code="d">161190</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

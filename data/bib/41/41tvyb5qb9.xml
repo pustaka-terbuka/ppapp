@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01618aam a2200421 i 4500</marc:leader>
+    <marc:controlfield tag="001">305884</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20191212165101</marc:controlfield>
+    <marc:controlfield tag="006">m    gq  i</marc:controlfield>
+    <marc:controlfield tag="007">co cga   uuuuu</marc:controlfield>
+    <marc:controlfield tag="008">190403s2019    my a   j d    000 0 may</marc:controlfield>
+    <marc:datafield tag="015" ind1=" " ind2=" ">
+      <marc:subfield code="a">M19-03658</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789674598976</marc:subfield>
+      <marc:subfield code="q">paperback</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)305884</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1="0" ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+      <marc:subfield code="a">eng</marc:subfield>
+      <marc:subfield code="a">ara</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">mal</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="a">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="b">KAM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">KAMUS BERGAMBAR 4 dalam 1 : Bahasa Melayu &amp;#x2022; Bahasa Inggeris &amp;#x2022; Jawi &amp;#x2022; Bahasa Arab : Generasi Baharu /</marc:subfield>
+      <marc:subfield code="c">Editors: Wan Zaharah, P. Subramaniam, Ahmad Faiz Mohamed, Rafidah Joseph Upi, Normaizatun Shahida, Muhammad Hafeez Husin</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Kuala Lumpur :</marc:subfield>
+      <marc:subfield code="b">Penerbitan Fargoes Sdn. Bhd.,</marc:subfield>
+      <marc:subfield code="c">[2019?]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">128 pages :</marc:subfield>
+      <marc:subfield code="b">colour illustrations ;</marc:subfield>
+      <marc:subfield code="c">26 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">Text parallel in Malay, English, Arabic and Jawi scripts</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Malay language</marc:subfield>
+      <marc:subfield code="v">Dictionaries</marc:subfield>
+      <marc:subfield code="x">Polyglot</marc:subfield>
+      <marc:subfield code="9">11063</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="v">Dictionaries</marc:subfield>
+      <marc:subfield code="x">Polyglot</marc:subfield>
+      <marc:subfield code="9">11064</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Arabic language</marc:subfield>
+      <marc:subfield code="v">Dictionaries</marc:subfield>
+      <marc:subfield code="x">Polyglot</marc:subfield>
+      <marc:subfield code="9">11067</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Jawi alphabet</marc:subfield>
+      <marc:subfield code="v">Dictionaries</marc:subfield>
+      <marc:subfield code="9">17466</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Picture dictionaries</marc:subfield>
+      <marc:subfield code="9">3368</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Wan Zaharah,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="9">17467</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">P. Subramaniam,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="9">17468</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Ahmad Faiz Mohamed,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="9">17469</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Rafidah Joseph Upi,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="9">17470</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Normaizatun Shahidai,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="9">17471</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="0" ind2=" ">
+      <marc:subfield code="a">Muhammad Hafeez Husin,</marc:subfield>
+      <marc:subfield code="e">editor.</marc:subfield>
+      <marc:subfield code="9">17472</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">MKR</marc:subfield>
+      <marc:subfield code="d">2019-12-12</marc:subfield>
+      <marc:subfield code="e">159</marc:subfield>
+      <marc:subfield code="g">14.31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="p">1001985368</marc:subfield>
+      <marc:subfield code="r">2020-01-21 00:00:00</marc:subfield>
+      <marc:subfield code="v">15.9</marc:subfield>
+      <marc:subfield code="w">2019-12-12</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PKK</marc:subfield>
+      <marc:subfield code="b">PKK</marc:subfield>
+      <marc:subfield code="c">MKR</marc:subfield>
+      <marc:subfield code="d">2019-12-12</marc:subfield>
+      <marc:subfield code="e">159</marc:subfield>
+      <marc:subfield code="g">14.31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="p">1001985369</marc:subfield>
+      <marc:subfield code="r">2020-02-19 00:00:00</marc:subfield>
+      <marc:subfield code="v">15.9</marc:subfield>
+      <marc:subfield code="w">2019-12-12</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">BMP</marc:subfield>
+      <marc:subfield code="d">2019-12-12</marc:subfield>
+      <marc:subfield code="e">159</marc:subfield>
+      <marc:subfield code="g">14.31</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="p">1001985370</marc:subfield>
+      <marc:subfield code="r">2025-11-15 13:33:21</marc:subfield>
+      <marc:subfield code="s">2025-11-09</marc:subfield>
+      <marc:subfield code="v">15.9</marc:subfield>
+      <marc:subfield code="w">2019-12-12</marc:subfield>
+      <marc:subfield code="y">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BP</marc:subfield>
+      <marc:subfield code="b">BP</marc:subfield>
+      <marc:subfield code="c">MKR</marc:subfield>
+      <marc:subfield code="d">2019-12-12</marc:subfield>
+      <marc:subfield code="e">159</marc:subfield>
+      <marc:subfield code="g">14.31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="p">1001985371</marc:subfield>
+      <marc:subfield code="r">2020-02-27 00:00:00</marc:subfield>
+      <marc:subfield code="v">15.9</marc:subfield>
+      <marc:subfield code="w">2019-12-12</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BM</marc:subfield>
+      <marc:subfield code="b">BM</marc:subfield>
+      <marc:subfield code="c">MKR</marc:subfield>
+      <marc:subfield code="d">2019-12-12</marc:subfield>
+      <marc:subfield code="e">159</marc:subfield>
+      <marc:subfield code="g">14.31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="p">1001985372</marc:subfield>
+      <marc:subfield code="r">2020-03-06 00:00:00</marc:subfield>
+      <marc:subfield code="v">15.9</marc:subfield>
+      <marc:subfield code="w">2019-12-12</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">JW</marc:subfield>
+      <marc:subfield code="b">JW</marc:subfield>
+      <marc:subfield code="c">MKR</marc:subfield>
+      <marc:subfield code="d">2019-12-12</marc:subfield>
+      <marc:subfield code="e">159</marc:subfield>
+      <marc:subfield code="g">14.31</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">KR 413.9923 KAM</marc:subfield>
+      <marc:subfield code="p">1001985373</marc:subfield>
+      <marc:subfield code="r">2020-03-13 00:00:00</marc:subfield>
+      <marc:subfield code="v">15.9</marc:subfield>
+      <marc:subfield code="w">2019-12-12</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">305884</marc:subfield>
+      <marc:subfield code="d">305884</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

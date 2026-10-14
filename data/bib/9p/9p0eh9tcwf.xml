@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01210cam a2200313 a 4500</marc:leader>
+    <marc:controlfield tag="001">15355626</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20190925145706</marc:controlfield>
+    <marc:controlfield tag="008">080707s2008    enk           000 0 eng</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">2008029860</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780199532957</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)15355626</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">423.12 OXF</marc:subfield>
+      <marc:subfield code="2">22</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">423.12 OXF</marc:subfield>
+      <marc:subfield code="b">OXF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="130" ind1="0" ind2=" ">
+      <marc:subfield code="a">Oxford compact thesaurus</marc:subfield>
+      <marc:subfield code="9">12839</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Compact Oxford thesaurus /</marc:subfield>
+      <marc:subfield code="c">edited by Maurice Waite, with Lucy Hollingworth and Duncan Marshall.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">3rd ed., rev.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Oxford ;</marc:subfield>
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Oxford University Press,</marc:subfield>
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">vi, 935 p. ;</marc:subfield>
+      <marc:subfield code="c">22 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Rev. ed. of: Oxford compact thesaurus / edited by Maurice Waite with Lucy Hollingworth and Duncan Marshall ; &quot;effective English&quot; by Sheila Ferguson. 3rd. ed., 2005.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Previously published as: Compact Oxford thesaurus. 3rd. ed. 2005.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">English language</marc:subfield>
+      <marc:subfield code="x">Synonyms and antonyms.</marc:subfield>
+      <marc:subfield code="9">12840</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Waite, Maurice.</marc:subfield>
+      <marc:subfield code="9">12841</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Hollingworth, Lucy.</marc:subfield>
+      <marc:subfield code="9">12842</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Marshall, Duncan.</marc:subfield>
+      <marc:subfield code="9">12843</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="856" ind1="4" ind2="1">
+      <marc:subfield code="3">Table of contents only</marc:subfield>
+      <marc:subfield code="u">http://www.loc.gov/catdir/toc/ecip0823/2008029860.html</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2019-10-08</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 423.12 OXF</marc:subfield>
+      <marc:subfield code="p">2000000055</marc:subfield>
+      <marc:subfield code="r">2020-01-18 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-10-08</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">305271</marc:subfield>
+      <marc:subfield code="d">305271</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

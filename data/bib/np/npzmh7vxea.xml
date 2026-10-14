@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01798nam a2200337 i 4500</marc:leader>
+    <marc:controlfield tag="001">319766</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20211020172316</marc:controlfield>
+    <marc:controlfield tag="008">201201s2021    my            001 0 eng c</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781119683780</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)319766</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="d">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">001 MCM</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">1</marc:subfield>
+      <marc:subfield code="b">MCM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">McMakin, Tom,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">40549</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">NEVER SAY SELL :</marc:subfield>
+      <marc:subfield code="b">How the World&apos;s Best Consulting and Professional Services Firms Expand Client Relationships /</marc:subfield>
+      <marc:subfield code="c">TOM McMAKIN, JACOB PARKS</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Hoboken, New Jersey :</marc:subfield>
+      <marc:subfield code="b">Wiley,</marc:subfield>
+      <marc:subfield code="c">2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="4">
+      <marc:subfield code="c">&amp;#xA9;2021</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">242 pages :</marc:subfield>
+      <marc:subfield code="c">24 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">&quot;Key rainmakers at firms like McKinsey, IBM, and Deloitte report that 80 percent of their new revenues come from existing clients, not from new logos. Never Say Sell is a how-to guide for executives, account teams, and sole proprietors for growing exiting accounts and turning their one-and-done clients into a source of recurring revenue. Most providers will explain account growth by saying, &quot;Do good work,&quot; arguing if they deliver value to clients, then clients will want more of their expertise and turn to them again and again for help. Unfortunately, this truism is as unhelpful as it is wrong. Never Say Sell reveals the truth and describes a new client-centered approach to account development&quot;--</marc:subfield>
+      <marc:subfield code="c">Provided by publisher.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Relationship marketing.</marc:subfield>
+      <marc:subfield code="9">7196</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Customer relations.</marc:subfield>
+      <marc:subfield code="9">7199</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Consulting firms</marc:subfield>
+      <marc:subfield code="x">Marketing.</marc:subfield>
+      <marc:subfield code="9">40550</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Parks, Jacob,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">40551</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">John Wiley &amp; Sons, Ltd.,</marc:subfield>
+      <marc:subfield code="e">publisher.</marc:subfield>
+      <marc:subfield code="9">40552</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Sabrina</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-10-14</marc:subfield>
+      <marc:subfield code="e">SMOS/06/21</marc:subfield>
+      <marc:subfield code="g">91.57</marc:subfield>
+      <marc:subfield code="l">1</marc:subfield>
+      <marc:subfield code="o">001 MCM</marc:subfield>
+      <marc:subfield code="p">2021-75959</marc:subfield>
+      <marc:subfield code="r">2022-02-05 00:00:00</marc:subfield>
+      <marc:subfield code="s">2022-01-22</marc:subfield>
+      <marc:subfield code="v">91.57</marc:subfield>
+      <marc:subfield code="w">2021-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-10-14</marc:subfield>
+      <marc:subfield code="e">SMOS/06/21</marc:subfield>
+      <marc:subfield code="g">91.57</marc:subfield>
+      <marc:subfield code="l">6</marc:subfield>
+      <marc:subfield code="m">1</marc:subfield>
+      <marc:subfield code="o">001 MCM</marc:subfield>
+      <marc:subfield code="p">2021-75960</marc:subfield>
+      <marc:subfield code="r">2025-08-02 16:37:06</marc:subfield>
+      <marc:subfield code="s">2024-11-10</marc:subfield>
+      <marc:subfield code="v">91.57</marc:subfield>
+      <marc:subfield code="w">2021-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-10-14</marc:subfield>
+      <marc:subfield code="e">SMOS/06/21</marc:subfield>
+      <marc:subfield code="g">91.57</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">001 MCM</marc:subfield>
+      <marc:subfield code="p">2021-75961</marc:subfield>
+      <marc:subfield code="r">2021-12-24 00:00:00</marc:subfield>
+      <marc:subfield code="v">91.57</marc:subfield>
+      <marc:subfield code="w">2021-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BP</marc:subfield>
+      <marc:subfield code="b">BP</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-10-14</marc:subfield>
+      <marc:subfield code="e">SMOS/06/21</marc:subfield>
+      <marc:subfield code="g">91.57</marc:subfield>
+      <marc:subfield code="l">3</marc:subfield>
+      <marc:subfield code="m">2</marc:subfield>
+      <marc:subfield code="o">001 MCM</marc:subfield>
+      <marc:subfield code="p">2021-75962</marc:subfield>
+      <marc:subfield code="r">2022-12-03 00:00:00</marc:subfield>
+      <marc:subfield code="s">2022-11-26</marc:subfield>
+      <marc:subfield code="v">91.57</marc:subfield>
+      <marc:subfield code="w">2021-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">BM</marc:subfield>
+      <marc:subfield code="b">BM</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-10-14</marc:subfield>
+      <marc:subfield code="e">SMOS/06/21</marc:subfield>
+      <marc:subfield code="g">91.57</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">001 MCM</marc:subfield>
+      <marc:subfield code="p">2021-75963</marc:subfield>
+      <marc:subfield code="r">2022-01-12 00:00:00</marc:subfield>
+      <marc:subfield code="v">91.57</marc:subfield>
+      <marc:subfield code="w">2021-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">JW</marc:subfield>
+      <marc:subfield code="b">JW</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-10-14</marc:subfield>
+      <marc:subfield code="e">SMOS/06/21</marc:subfield>
+      <marc:subfield code="g">91.57</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">001 MCM</marc:subfield>
+      <marc:subfield code="p">2021-75964</marc:subfield>
+      <marc:subfield code="r">2022-01-02 00:00:00</marc:subfield>
+      <marc:subfield code="v">91.57</marc:subfield>
+      <marc:subfield code="w">2021-10-14</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">319766</marc:subfield>
+      <marc:subfield code="d">319766</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

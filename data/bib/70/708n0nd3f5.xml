@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00818pam a2200217   4500</marc:leader>
+    <marc:controlfield tag="001">225939</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20170405001936</marc:controlfield>
+    <marc:controlfield tag="008">161215s2000    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)225939</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">729</marc:subfield>
+      <marc:subfield code="b">RIC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Richardson, A. E.</marc:subfield>
+      <marc:subfield code="q">(Albert Edward),</marc:subfield>
+      <marc:subfield code="c">Sir,</marc:subfield>
+      <marc:subfield code="d">1880-1964.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Design in civil architecture /</marc:subfield>
+      <marc:subfield code="c">by A. E. Richardson and Hector O. Corfiato</marc:subfield>
+      <marc:subfield code="n">Volume 1 :</marc:subfield>
+      <marc:subfield code="b">Elevational treatments</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1="2" ind2="1">
+      <marc:subfield code="a">London :</marc:subfield>
+      <marc:subfield code="b">English Universities Press,</marc:subfield>
+      <marc:subfield code="c">[1948-</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">215.p :</marc:subfield>
+      <marc:subfield code="b">illus.,</marc:subfield>
+      <marc:subfield code="c">32 cm.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Captions accompanying the illus. are in English, French and Russian.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Architecture</marc:subfield>
+      <marc:subfield code="v">Designs and plans.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Architecture</marc:subfield>
+      <marc:subfield code="x">Details.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Architecture</marc:subfield>
+      <marc:subfield code="x">Composition, proportion, etc.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Corfiato, Hector Othon,</marc:subfield>
+      <marc:subfield code="d">1892-</marc:subfield>
+      <marc:subfield code="e">joint author.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="a">WHI</marc:subfield>
+      <marc:subfield code="b">WHI</marc:subfield>
+      <marc:subfield code="c">RWH</marc:subfield>
+      <marc:subfield code="d">2017-04-05</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">729 RIC</marc:subfield>
+      <marc:subfield code="p">1001318059</marc:subfield>
+      <marc:subfield code="r">2017-04-05 00:00:00</marc:subfield>
+      <marc:subfield code="w">2017-04-05</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">182339</marc:subfield>
+      <marc:subfield code="d">182339</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

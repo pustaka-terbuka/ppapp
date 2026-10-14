@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00569nrc a2200181 i 4500</marc:leader>
+    <marc:controlfield tag="001">325340</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20220727114437</marc:controlfield>
+    <marc:controlfield tag="008">220727b2022    my ||||| |||| 00| 0 may d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)325340</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">may</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="4">
+      <marc:subfield code="2">23</marc:subfield>
+      <marc:subfield code="a">TYT 394.4 PAK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">TYT 394.4</marc:subfield>
+      <marc:subfield code="b">PAK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2=" ">
+      <marc:subfield code="a">Pakaian Tuan Yang Terutama :</marc:subfield>
+      <marc:subfield code="b">Jubah konvokesyen</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="0">
+      <marc:subfield code="a">[place publication not identified] :</marc:subfield>
+      <marc:subfield code="b">[publication not identified],</marc:subfield>
+      <marc:subfield code="c">[date of publication not identified].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Costume</marc:subfield>
+      <marc:subfield code="x">Clothing and dress</marc:subfield>
+      <marc:subfield code="9">54274</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">TAR</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Hasliza</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">325340</marc:subfield>
+      <marc:subfield code="d">325340</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

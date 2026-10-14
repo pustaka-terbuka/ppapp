@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00575nam a2200193   4500</marc:leader>
+    <marc:controlfield tag="001">vtls000316339</marc:controlfield>
+    <marc:controlfield tag="003">PNM</marc:controlfield>
+    <marc:controlfield tag="005">20230615234215</marc:controlfield>
+    <marc:controlfield tag="008">021010                       00    may</marc:controlfield>
+    <marc:datafield tag="015" ind1=" " ind2=" ">
+      <marc:subfield code="a">M021-730</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9832417104</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)vtls000316339</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="039" ind1=" " ind2="9">
+      <marc:subfield code="a">201605251245</marc:subfield>
+      <marc:subfield code="b">morni</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PNM</marc:subfield>
+      <marc:subfield code="c">PNM</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">121.686</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Pengantar usul tafsir /</marc:subfield>
+      <marc:subfield code="c">oleh Fauzi bin Deraman, Mustaffa bin Abdullah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">Petaling Jaya :</marc:subfield>
+      <marc:subfield code="b">Intel Multimedia and Publications,</marc:subfield>
+      <marc:subfield code="c">2002</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PEMILIHAN BAHAN UNTUK KELULUSAN PEROLEHAN 2023-NOAH</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">336774</marc:subfield>
+      <marc:subfield code="d">336774</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>03232cam a2200337 i 4500</marc:leader>
+    <marc:controlfield tag="001">317156</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20210517121246</marc:controlfield>
+    <marc:controlfield tag="008">180928s2019    maua     b    001 0 eng c</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9780674976986</marc:subfield>
+      <marc:subfield code="q">(hardcover)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)317156</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">MH/DLC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="d">DLC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">070.4 DIA</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1=" " ind2=" ">
+      <marc:subfield code="a">70.4</marc:subfield>
+      <marc:subfield code="b">DIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Diakopoulos, Nicholas,</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">36367</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Automating the news :</marc:subfield>
+      <marc:subfield code="b">how algorithms are rewriting the media /</marc:subfield>
+      <marc:subfield code="c">Nicholas Diakopoulos.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">Cambridge, Massachusetts :</marc:subfield>
+      <marc:subfield code="b">Harvard University Press,</marc:subfield>
+      <marc:subfield code="c">2019</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">322 pages :</marc:subfield>
+      <marc:subfield code="b">illustrations ;</marc:subfield>
+      <marc:subfield code="c">22 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="504" ind1=" " ind2=" ">
+      <marc:subfield code="a">Includes bibliographical references (pages 255-308) and index.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">Introduction: The era of new algorithms -- Hybridization: combining algorithms, automation, and people in news work -- Journalistic data mining -- Automated content production -- News bots: agents of information -- Digital paperboys: algorithms in news distribution -- Algorithmic accountability reporting -- Conclusion: The future of algorithmic news media.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Amid the push for self-driving cars and the roboticization of industrial economies, automation has proven one of the biggest news stories of our time. Yet the wide-scale automation of the news itself has largely escaped attention. In this lively expos&amp;#xE9; of that rapidly shifting terrain, Nicholas Diakopoulos focuses on the people who tell the stories--increasingly with the help of computer algorithms that are fundamentally changing the creation, dissemination, and reception of the news. Diakopoulos reveals how machine learning and data mining have transformed investigative journalism. Newsbots converse with social media audiences, distributing stories and receiving feedback. Online media has become a platform for A/B testing of content, helping journalists to better understand what moves audiences. Algorithms can even draft certain kinds of stories. These techniques enable media organizations to take advantage of experiments and economies of scale, enhancing the sustainability of the fourth estate. But they also place pressure on editorial decision-making, because they allow journalists to produce more stories, sometimes better ones, but rarely both. Automating the News responds to hype and fears surrounding journalistic algorithms by exploring the human influence embedded in automation. Though the effects of automation are deep, Diakopoulos shows that journalists are at little risk of being displaced. With algorithms at their fingertips, they may work differently and tell different stories than they otherwise would, but their values remain the driving force behind the news. The human-algorithm hybrid thus emerges as the latest embodiment of an age-old tension between commercial imperatives and journalistic principles.--</marc:subfield>
+      <marc:subfield code="c">Provided by publisher</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="1" ind2="0">
+      <marc:subfield code="a">Journalism</marc:subfield>
+      <marc:subfield code="x">Technological innovations.</marc:subfield>
+      <marc:subfield code="9">36368</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Online journalism.</marc:subfield>
+      <marc:subfield code="9">36369</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Digital media.</marc:subfield>
+      <marc:subfield code="9">8959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Algorithms.</marc:subfield>
+      <marc:subfield code="9">36370</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="2" ind2="0">
+      <marc:subfield code="a">Multimedia data mining.</marc:subfield>
+      <marc:subfield code="9">36371</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">Basirah</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">PUS</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-03-16</marc:subfield>
+      <marc:subfield code="e">YUHA/90/20</marc:subfield>
+      <marc:subfield code="g">126.1</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">070.4 DIA</marc:subfield>
+      <marc:subfield code="p">2021-20114</marc:subfield>
+      <marc:subfield code="r">2021-07-19 00:00:00</marc:subfield>
+      <marc:subfield code="v">126.1</marc:subfield>
+      <marc:subfield code="w">2021-03-16</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">NFIC</marc:subfield>
+      <marc:subfield code="a">GT</marc:subfield>
+      <marc:subfield code="b">GT</marc:subfield>
+      <marc:subfield code="c">BIP</marc:subfield>
+      <marc:subfield code="d">2021-03-16</marc:subfield>
+      <marc:subfield code="e">YUHA/90/20</marc:subfield>
+      <marc:subfield code="g">126.1</marc:subfield>
+      <marc:subfield code="l">3</marc:subfield>
+      <marc:subfield code="m">2</marc:subfield>
+      <marc:subfield code="o">070.4 DIA</marc:subfield>
+      <marc:subfield code="p">2021-20115</marc:subfield>
+      <marc:subfield code="r">2026-07-02 12:51:34</marc:subfield>
+      <marc:subfield code="s">2026-06-05</marc:subfield>
+      <marc:subfield code="v">126.1</marc:subfield>
+      <marc:subfield code="w">2021-03-16</marc:subfield>
+      <marc:subfield code="y">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">317156</marc:subfield>
+      <marc:subfield code="d">317156</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

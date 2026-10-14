@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00665npm a22002177a 4500</marc:leader>
+    <marc:controlfield tag="001">316889</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20210309094139</marc:controlfield>
+    <marc:controlfield tag="008">210309b2021       ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)316889</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="d">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">794 HAN</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Hand Roll Up Piano</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">China</marc:subfield>
+      <marc:subfield code="b">[publisher not identified]</marc:subfield>
+      <marc:subfield code="c">[date of publication not identified]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">1 Box</marc:subfield>
+      <marc:subfield code="c">21cm x 16cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">still image</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">object</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">includes 1 set of piano</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1=" " ind2=" ">
+      <marc:subfield code="a">Restricted: borrow and play in the library only</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2=" ">
+      <marc:subfield code="a">indoor game of skill</marc:subfield>
+      <marc:subfield code="9">35830</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">GAMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">4</marc:subfield>
+      <marc:subfield code="a">BR10</marc:subfield>
+      <marc:subfield code="b">BR10</marc:subfield>
+      <marc:subfield code="c">PPM</marc:subfield>
+      <marc:subfield code="d">2021-03-18</marc:subfield>
+      <marc:subfield code="e">SAPD/PER05/20</marc:subfield>
+      <marc:subfield code="g">299</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">794 HAN</marc:subfield>
+      <marc:subfield code="p">2021-21804</marc:subfield>
+      <marc:subfield code="r">2021-03-30 00:00:00</marc:subfield>
+      <marc:subfield code="v">299</marc:subfield>
+      <marc:subfield code="w">2021-03-18</marc:subfield>
+      <marc:subfield code="y">GAMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">316889</marc:subfield>
+      <marc:subfield code="d">316889</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

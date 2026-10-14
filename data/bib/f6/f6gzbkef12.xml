@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>01473cam a2200409 i 4500</marc:leader>
+    <marc:controlfield tag="001">19964214</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20190314161740</marc:controlfield>
+    <marc:controlfield tag="008">170825t20182018nyu           000 0 eng</marc:controlfield>
+    <marc:datafield tag="010" ind1=" " ind2=" ">
+      <marc:subfield code="a">2017032615</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9781507205723 (paperback)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">1507205724 (paperback)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">9781507205730 (ebook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="z">1507205732 (ebook)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(DLC)19964214</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(DLC)2017032615</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)19964214</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">DLC</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+      <marc:subfield code="d">DLC</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="042" ind1=" " ind2=" ">
+      <marc:subfield code="a">pcc</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="050" ind1="0" ind2="0">
+      <marc:subfield code="a">RA790</marc:subfield>
+      <marc:subfield code="b">.B73 2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1="0" ind2="0">
+      <marc:subfield code="a">616.89/05</marc:subfield>
+      <marc:subfield code="2">23</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="0">
+      <marc:subfield code="a">Brain hacks :</marc:subfield>
+      <marc:subfield code="b">200+ ways to boost your brain power.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="250" ind1=" " ind2=" ">
+      <marc:subfield code="a">First adams media trade paperback edition.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="264" ind1=" " ind2="1">
+      <marc:subfield code="a">New York :</marc:subfield>
+      <marc:subfield code="b">Adams Media,</marc:subfield>
+      <marc:subfield code="c">2018</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">255 pages ;</marc:subfield>
+      <marc:subfield code="c">19 cm</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="b">n</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="b">nc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Mental illness</marc:subfield>
+      <marc:subfield code="x">Prevention</marc:subfield>
+      <marc:subfield code="v">Popular works.</marc:subfield>
+      <marc:subfield code="9">6958</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Mental health</marc:subfield>
+      <marc:subfield code="x">Nutritional aspects</marc:subfield>
+      <marc:subfield code="v">Popular works.</marc:subfield>
+      <marc:subfield code="9">6959</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Self-care, Health</marc:subfield>
+      <marc:subfield code="v">Popular works.</marc:subfield>
+      <marc:subfield code="9">6960</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Adams Media (Firm)</marc:subfield>
+      <marc:subfield code="e">issuing body.</marc:subfield>
+      <marc:subfield code="9">6961</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="776" ind1="0" ind2="8">
+      <marc:subfield code="i">Online version:</marc:subfield>
+      <marc:subfield code="t">Brain hacks</marc:subfield>
+      <marc:subfield code="b">First adams media trade paperback edition.</marc:subfield>
+      <marc:subfield code="d">New York : Adams Media, 2017</marc:subfield>
+      <marc:subfield code="z">9781507205730</marc:subfield>
+      <marc:subfield code="w">(DLC) 2017041090</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="906" ind1=" " ind2=" ">
+      <marc:subfield code="a">7</marc:subfield>
+      <marc:subfield code="b">cbc</marc:subfield>
+      <marc:subfield code="c">orignew</marc:subfield>
+      <marc:subfield code="d">1</marc:subfield>
+      <marc:subfield code="e">ecip</marc:subfield>
+      <marc:subfield code="f">20</marc:subfield>
+      <marc:subfield code="g">y-gencatlg</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">BOK_DE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1="0" ind2="0">
+      <marc:subfield code="a">zmz</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">293795</marc:subfield>
+      <marc:subfield code="d">293795</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

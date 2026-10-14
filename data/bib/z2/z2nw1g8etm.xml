@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00873pam a2200265   4500</marc:leader>
+    <marc:controlfield tag="001">203117</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20191001095005</marc:controlfield>
+    <marc:controlfield tag="008">161215s2011    CNT           000 0 eng d</marc:controlfield>
+    <marc:datafield tag="020" ind1=" " ind2=" ">
+      <marc:subfield code="a">9789834291211</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)203117</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="e">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="041" ind1=" " ind2=" ">
+      <marc:subfield code="a">eng</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">495.1795951 CHE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="090" ind1="0" ind2="0">
+      <marc:subfield code="a">495.1795951 CHE</marc:subfield>
+      <marc:subfield code="b">CHE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="091" ind1="0" ind2="0">
+      <marc:subfield code="a">495.1795951 CHE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="100" ind1="0" ind2=" ">
+      <marc:subfield code="a">Chee, Johny.</marc:subfield>
+      <marc:subfield code="e">author.</marc:subfield>
+      <marc:subfield code="9">13237</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="0" ind2="1">
+      <marc:subfield code="a">A tapestry of Baba poetry /</marc:subfield>
+      <marc:subfield code="c">by Johny Chee ; [verse translation in English by Lim Poh Keng].</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1="2" ind2=" ">
+      <marc:subfield code="a">Penang: :</marc:subfield>
+      <marc:subfield code="b">Johny Chee,,</marc:subfield>
+      <marc:subfield code="c">2008</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">xviii, 137p.: :</marc:subfield>
+      <marc:subfield code="b">ill. (some col.);,</marc:subfield>
+      <marc:subfield code="c">21cm. + 1CD (4 3/4 in.)</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Hokkien dialects</marc:subfield>
+      <marc:subfield code="x">Rhyme.</marc:subfield>
+      <marc:subfield code="9">13238</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Peranakan (Asian people)</marc:subfield>
+      <marc:subfield code="b">Malaysia</marc:subfield>
+      <marc:subfield code="c">Penang.</marc:subfield>
+      <marc:subfield code="9">13239</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1="0" ind2="4">
+      <marc:subfield code="a">Chinese language</marc:subfield>
+      <marc:subfield code="b">Malaysia</marc:subfield>
+      <marc:subfield code="c">Penang</marc:subfield>
+      <marc:subfield code="x">Dialects.</marc:subfield>
+      <marc:subfield code="9">13240</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="950" ind1=" " ind2=" ">
+      <marc:subfield code="a">RIA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">0</marc:subfield>
+      <marc:subfield code="8">REF</marc:subfield>
+      <marc:subfield code="a">BT</marc:subfield>
+      <marc:subfield code="b">BT</marc:subfield>
+      <marc:subfield code="c">TYT</marc:subfield>
+      <marc:subfield code="d">2019-10-21</marc:subfield>
+      <marc:subfield code="e">HADIAH</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">TYT 495.1795951 CHE</marc:subfield>
+      <marc:subfield code="p">2000000354</marc:subfield>
+      <marc:subfield code="r">2020-01-18 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-10-21</marc:subfield>
+      <marc:subfield code="y">REF</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">160936</marc:subfield>
+      <marc:subfield code="d">160936</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

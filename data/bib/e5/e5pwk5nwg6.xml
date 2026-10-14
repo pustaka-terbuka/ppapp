@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00566nam a22001937a 4500</marc:leader>
+    <marc:controlfield tag="001">300757</marc:controlfield>
+    <marc:controlfield tag="003">PPAPP</marc:controlfield>
+    <marc:controlfield tag="005">20190219120705</marc:controlfield>
+    <marc:controlfield tag="008">190219s2          ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)300757</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PPAPP</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">PPAPP</marc:subfield>
+      <marc:subfield code="d">rda</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="082" ind1=" " ind2=" ">
+      <marc:subfield code="a">796.7 SWA</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1=" " ind2=" ">
+      <marc:subfield code="a">SWAT CAR FAST LANE LIGHT &amp; SOUND</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">China</marc:subfield>
+      <marc:subfield code="b">Toy&apos;RUS&apos;&apos; (Hong kong) Limeted</marc:subfield>
+      <marc:subfield code="c">2017</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="336" ind1=" " ind2=" ">
+      <marc:subfield code="a">stillimage</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="337" ind1=" " ind2=" ">
+      <marc:subfield code="2">unmediated</marc:subfield>
+      <marc:subfield code="a">rdamedia</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="338" ind1=" " ind2=" ">
+      <marc:subfield code="2">object</marc:subfield>
+      <marc:subfield code="a">rdacarrier</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="505" ind1=" " ind2=" ">
+      <marc:subfield code="a">Restrited: borrow and play in the library only</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="650" ind1=" " ind2=" ">
+      <marc:subfield code="a">indoor games</marc:subfield>
+      <marc:subfield code="9">1214</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="c">GAMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="952" ind1=" " ind2=" ">
+      <marc:subfield code="0">0</marc:subfield>
+      <marc:subfield code="1">0</marc:subfield>
+      <marc:subfield code="2">ddc</marc:subfield>
+      <marc:subfield code="4">0</marc:subfield>
+      <marc:subfield code="7">4</marc:subfield>
+      <marc:subfield code="a">PUS</marc:subfield>
+      <marc:subfield code="b">BPPK</marc:subfield>
+      <marc:subfield code="c">PPM</marc:subfield>
+      <marc:subfield code="d">2019-02-19</marc:subfield>
+      <marc:subfield code="e">LVRD/PER03/18</marc:subfield>
+      <marc:subfield code="g">195.21</marc:subfield>
+      <marc:subfield code="l">0</marc:subfield>
+      <marc:subfield code="o">796.7 SWA</marc:subfield>
+      <marc:subfield code="p">1400009499</marc:subfield>
+      <marc:subfield code="r">2019-02-19 00:00:00</marc:subfield>
+      <marc:subfield code="w">2019-02-19</marc:subfield>
+      <marc:subfield code="y">GAMES</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">300757</marc:subfield>
+      <marc:subfield code="d">300757</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>

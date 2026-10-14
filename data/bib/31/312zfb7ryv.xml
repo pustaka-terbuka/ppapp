@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+  <marc:record>
+    <marc:leader>00272nam a22000977a 4500</marc:leader>
+    <marc:controlfield tag="001">335144</marc:controlfield>
+    <marc:controlfield tag="008">230523b           ||||| |||| 00| 0 eng d</marc:controlfield>
+    <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(PPAPP)335144</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">Yemaaligalum thirudanum</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">PEMILIHAN BAHAN UNTUK KELULUSAN PEROLEHAN 2023 HEVEN ENTERPRISE</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="942" ind1=" " ind2=" ">
+      <marc:subfield code="c">BOK_KK</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="996" ind1=" " ind2=" ">
+      <marc:subfield code="a">ppapp</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="c">335144</marc:subfield>
+      <marc:subfield code="d">335144</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
